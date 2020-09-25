@@ -1,23 +1,23 @@
 {
-  "store_id": 1162,
-  "name": "popsocket",
   "domain": "popsocket.netlify.app",
-  "short_name": "popsocket",
-  "description": "",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-popsockets.png",
+  "name": "popsocket",
+  "short_name": "popsocket",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1162,
+  "description": "PopSocket.com | PopSockets",
+  "large_icon": "/img/large-icon.png"
 }
