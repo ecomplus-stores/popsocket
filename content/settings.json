@@ -13,11 +13,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/icon.png",
+  "favicon": "/img/uploads/favicon-16x16.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/icon.png",
+  "icon": "/img/uploads/favicon-128.png",
   "store_id": 1162,
   "description": "PopSocket.com | PopSockets",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/favicon-128.png"
 }
