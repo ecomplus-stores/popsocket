@@ -4,12 +4,12 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
-          "start": "2020-09-25T20:04:42.208Z",
-          "end": "2020-09-25T20:04:42.226Z",
-          "img": "/img/uploads/mainbanne.jpg"
+          "start": "2020-09-25T20:17:00.367Z",
+          "end": "2020-09-25T20:17:00.397Z",
+          "img": "/img/uploads/bannersok.png"
         }
       ]
     },
