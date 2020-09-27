@@ -9,9 +9,22 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Premium",
+        "url": "https://popsocket.netlify.app/premium"
+      },
+      {
+        "text": "Luxo",
+        "url": "https://popsocket.netlify.app/luxo"
+      },
+      {
+        "text": "PopGrips",
+        "url": "https://popsocket.netlify.app/popgrips"
+      }
+    ]
   },
   "contacts": {
     "title": "",
