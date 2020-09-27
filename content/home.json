@@ -42,6 +42,17 @@
           "img": "/img/uploads/co_posicion1_082020.jpg"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/co_posicion7_082020.png"
+        },
+        {
+          "img": "/img/uploads/co_posicion8_082020.jpg"
+        }
+      ]
     }
   ]
 }
