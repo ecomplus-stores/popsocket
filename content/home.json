@@ -40,8 +40,8 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "                    Coleções em destaque"
+      "type": "page-title",
+      "title": "Coleções em destaque"
     },
     {
       "type": "banners-grid",
