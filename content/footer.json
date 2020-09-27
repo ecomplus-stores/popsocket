@@ -14,10 +14,10 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
-    "phone_wpp": true,
+    "title": "",
+    "phone_wpp": false,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
