@@ -1,5 +1,5 @@
 {
-  "css": "body, p, .btn {\n  font-family: 'Gotham Rounded Book', sans-serif !important;\n  font-weight: normal;\n  font-size: 14px\n}\n#product-actions .btn.share {\ndisplay: none\n}",
+  "css": "body, p, .btn {\n  font-family: 'Gotham Rounded Book', sans-serif !important;\n  font-weight: normal !important;\n  font-size: 14px !important;\n}\n#product-actions .btn.share {\ndisplay: none\n}",
   "html_head": "",
   "html_body": ""
 }
