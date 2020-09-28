@@ -22,7 +22,8 @@
           "img": "/img/uploads/co_posicion5_082020.jpg"
         },
         {
-          "img": "/img/uploads/co_posicion6_082020.jpg"
+          "img": "/img/uploads/co_posicion6_082020.jpg",
+          "link": "https://popsocket.netlify.app/premium"
         }
       ]
     },
@@ -30,7 +31,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/co_posicion3_082020.jpg"
+          "img": "/img/uploads/co_posicion3_082020.jpg",
+          "link": "https://popsocket.netlify.app/luxo"
         },
         {
           "img": "/img/uploads/co_posicion2_082020.jpg"
