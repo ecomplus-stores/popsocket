@@ -1,5 +1,5 @@
 {
-  "css": "body, p, .btn {\n  font-family: 'Gotham Rounded Book', sans-serif !important;\n  font-weight: normal !important;\n  font-size: 14px !important;\n}\n#product-actions .btn.share {\ndisplay: none\n}\n.header__row {\n    display: flex !important;\n    flex-direction: row !important;\n  }\n  .header__row .col-auto {\n    order: 1 !important;\n  }\n  .header__row .col {\n    order: 2 !important;\n  }\n  .header__row .d-none {\n    order: 3 !important;\n  }\n  .header__row #search-bar {\n    order: 4 !important;\n  }\n  .header__row .order-lg-last {\n    order: 5 !important;\n  }\n  #search-input {\n    border: solid 1px $gray-200;\n  }",
+  "css": "body, p, .btn {\n  font-family: 'Gotham Rounded', sans-serif !important;\n  font-weight: normal !important;\n  font-size: 14px !important;\n}\n#product-actions .btn.share {\ndisplay: none\n}\n.header__row {\n    display: flex !important;\n    flex-direction: row !important;\n  }\n  .header__row .col-auto {\n    order: 1 !important;\n  }\n  .header__row .col {\n    order: 2 !important;\n  }\n  .header__row .d-none {\n    order: 3 !important;\n  }\n  .header__row #search-bar {\n    order: 4 !important;\n  }\n  .header__row .order-lg-last {\n    order: 5 !important;\n  }\n  #search-input {\n    border: solid 1px $gray-200;\n  }",
   "html_head": "",
   "html_body": ""
 }
