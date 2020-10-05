@@ -54,11 +54,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/co_posicion7_082020.png",
+          "img": "/img/uploads/co_posicion7_092020.jpg",
           "link": "https://popsocket.netlify.app/mais-vendidos"
         },
         {
-          "img": "/img/uploads/co_posicion8_082020.jpg",
+          "img": "/img/uploads/co_posicion8_092020.jpg",
           "link": "https://popsocket.netlify.app/ideais-para-presente"
         }
       ]
