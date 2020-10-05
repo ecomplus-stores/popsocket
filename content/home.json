@@ -16,15 +16,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/co_posicion4_082020.jpg",
+          "img": "/img/uploads/pop-banner-basics.png",
           "link": "https://popsocket.netlify.app/essenciais"
         },
         {
-          "img": "/img/uploads/co_posicion5_082020.jpg",
+          "img": "/img/uploads/pop-banner-licenciados.png",
           "link": "https://popsocket.netlify.app/colecionaveis"
         },
         {
-          "img": "/img/uploads/co_posicion6_082020.jpg",
+          "img": "/img/uploads/pop-banner-premium.png",
           "link": "https://popsocket.netlify.app/premium"
         }
       ]
@@ -33,15 +33,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/co_posicion3_082020.jpg",
+          "img": "/img/uploads/pop-banner-luxe.png",
           "link": "https://popsocket.netlify.app/luxo"
         },
         {
-          "img": "/img/uploads/co_posicion2_082020.jpg",
+          "img": "/img/uploads/pop-banner-popwallets.png",
           "link": "https://popsocket.netlify.app/popwallets"
         },
         {
-          "img": "/img/uploads/co_posicion1_082020.jpg",
+          "img": "/img/uploads/pop-banner-suportes.png",
           "link": "https://popsocket.netlify.app/suportes"
         }
       ]
