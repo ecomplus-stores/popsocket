@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-popsockets.svg",
   "name": "O Original chegou | PopSockets.com.br®",
-  "short_name": "O Original chegou | PopSockets.com.br®",
+  "short_name": "PopSockets.com.br®",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/favicon-128.png",
   "store_id": 1162,
-  "description": "O Original chegou | PopSockets.com.br®",
+  "description": "PopSockets.com.br®",
   "large_icon": "/img/uploads/favicon-128.png"
 }
