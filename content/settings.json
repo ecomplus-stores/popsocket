@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-popsockets.svg",
-  "name": "PopSockets.com",
-  "short_name": "PopSockets",
+  "name": "PopSockets.com.br",
+  "short_name": "PopSockets.com.br ® - O Original chegou.",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/favicon-128.png",
   "store_id": 1162,
-  "description": "PopSocket.com | PopSockets",
+  "description": "PopSockets.com.br ® - O Original chegou.",
   "large_icon": "/img/uploads/favicon-128.png"
 }
