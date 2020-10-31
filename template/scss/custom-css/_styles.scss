@@ -47,13 +47,3 @@
     font-style: normal;
     font-display: swap;
 }
-@media(max-width:780px) {
-  .desktop {
-    display: none;
-  }
-}
-@media(min-width:780px) {
-  .mobile {
-    display: none;
-  }
-}
