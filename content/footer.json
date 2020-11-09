@@ -23,6 +23,10 @@
       {
         "text": "PopGrips",
         "url": "https://popsocket.netlify.app/popgrips"
+      },
+      {
+        "text": "Basic",
+        "url": "https://popsocket.netlify.app/basic"
       }
     ]
   },
