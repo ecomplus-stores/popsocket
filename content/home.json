@@ -17,11 +17,11 @@
       "banners": [
         {
           "img": "/img/uploads/pop-banner-basics.png",
-          "link": "https://popsocket.netlify.app/essenciais"
+          "link": "https://popsocket.netlify.app/basic"
         },
         {
           "img": "/img/uploads/pop-banner-licenciados.png",
-          "link": "https://popsocket.netlify.app/colecionaveis"
+          "link": "https://popsocket.netlify.app/licenciados"
         },
         {
           "img": "/img/uploads/pop-banner-premium.png",
@@ -34,7 +34,7 @@
       "banners": [
         {
           "img": "/img/uploads/pop-banner-luxe.png",
-          "link": "https://popsocket.netlify.app/luxo"
+          "link": "https://popsocket.netlify.app/luxe"
         },
         {
           "img": "/img/uploads/pop-banner-popwallets.png",
@@ -42,7 +42,7 @@
         },
         {
           "img": "/img/uploads/pop-banner-suportes.png",
-          "link": "https://popsocket.netlify.app/suportes"
+          "link": "https://popsocket.netlify.app/popmounts"
         }
       ]
     },
