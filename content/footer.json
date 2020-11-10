@@ -14,19 +14,27 @@
     "list": [
       {
         "text": "Basic",
-        "url": "https://popsocket.netlify.app/basic"
+        "url": "https://www.popsockets.com.br/basic"
       },
       {
         "text": "Premium",
-        "url": "https://popsocket.netlify.app/premium"
+        "url": "https://www.popsockets.com.br/premium"
       },
       {
-        "text": "Luxo",
-        "url": "https://popsocket.netlify.app/luxo"
+        "text": "Luxe",
+        "url": "https://www.popsockets.com.br/luxe"
       },
       {
         "text": "Licenciados",
-        "url": "https://popsocket.netlify.app/licenciados"
+        "url": "https://www.popsockets.com.br/licenciados"
+      },
+      {
+        "text": "PopWallet+",
+        "url": "https://www.popsockets.com.br/popwallets"
+      },
+      {
+        "text": "PopMount",
+        "url": "https://www.popsockets.com.br/popmounts"
       }
     ]
   },
