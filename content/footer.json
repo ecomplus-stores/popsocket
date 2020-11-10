@@ -13,6 +13,10 @@
     "title": "Categorias",
     "list": [
       {
+        "text": "Basic",
+        "url": "https://popsocket.netlify.app/basic"
+      },
+      {
         "text": "Premium",
         "url": "https://popsocket.netlify.app/premium"
       },
@@ -21,12 +25,8 @@
         "url": "https://popsocket.netlify.app/luxo"
       },
       {
-        "text": "PopGrips",
-        "url": "https://popsocket.netlify.app/popgrips"
-      },
-      {
-        "text": "Basic",
-        "url": "https://popsocket.netlify.app/basic"
+        "text": "Licenciados",
+        "url": "https://popsocket.netlify.app/licenciados"
       }
     ]
   },
