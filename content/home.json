@@ -17,15 +17,15 @@
       "banners": [
         {
           "img": "/img/uploads/pop-banner-basics.png",
-          "link": "https://popsocket.netlify.app/basic"
+          "link": "https://www.popsockets.com.br/basic"
         },
         {
           "img": "/img/uploads/pop-banner-licenciados.png",
-          "link": "https://popsocket.netlify.app/licenciados"
+          "link": "https://www.popsockets.com.br/licenciados"
         },
         {
           "img": "/img/uploads/pop-banner-premium.png",
-          "link": "https://popsocket.netlify.app/premium"
+          "link": "https://www.popsockets.com.br/licenciados"
         }
       ]
     },
@@ -34,15 +34,15 @@
       "banners": [
         {
           "img": "/img/uploads/pop-banner-luxe.png",
-          "link": "https://popsocket.netlify.app/luxe"
+          "link": "https://www.popsockets.com.br/luxe"
         },
         {
           "img": "/img/uploads/pop-banner-popwallets.png",
-          "link": "https://popsocket.netlify.app/popwallets"
+          "link": "https://www.popsockets.com.br/popwallets"
         },
         {
           "img": "/img/uploads/pop-banner-suportes.png",
-          "link": "https://popsocket.netlify.app/popmounts"
+          "link": "https://www.popsockets.com.br/popmounts"
         }
       ]
     },
