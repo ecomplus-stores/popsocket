@@ -13,24 +13,24 @@
     "title": "Categorias",
     "list": [
       {
-        "text": "Luxe",
-        "url": "https://www.popsockets.com.br/luxe"
-      },
-      {
-        "text": "Premium",
-        "url": "https://www.popsockets.com.br/premium"
-      },
-      {
-        "text": "Licenciados",
-        "url": "https://www.popsockets.com.br/licenciados"
+        "text": "Basic",
+        "url": "https://www.popsockets.com.br/basic"
       },
       {
         "text": "Graphic",
         "url": "https://www.popsockets.com.br/graphic"
       },
       {
-        "text": "Basic",
-        "url": "https://www.popsockets.com.br/basic"
+        "text": "Licenciados",
+        "url": "https://www.popsockets.com.br/licenciados"
+      },
+      {
+        "text": "Premium",
+        "url": "https://www.popsockets.com.br/premium"
+      },
+      {
+        "text": "Luxe",
+        "url": "https://www.popsockets.com.br/luxe"
       },
       {
         "text": "PopWallet+",
