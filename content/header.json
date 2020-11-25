@@ -11,7 +11,9 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/comprar?Comprar"
+    ],
     "random": 1,
     "full_width": false
   },
