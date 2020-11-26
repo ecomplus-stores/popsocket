@@ -58,3 +58,34 @@
   url("fonts/font-mobi.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
   url("fonts/font-mobi.svg#Gotham Rounded Medium") format("svg"); /* iOS 4.1- */
 }
+body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
+  color: #00263e;
+}
+.product-card__name, .product__name, .breadcrumb-item, .breadcrumb-item a {
+  font-family: 'Gotham Rounded Book', sans-serif !important;
+}
+.collectionID h2 {
+  width: 100%;
+  text-align: center;
+  font-family: 'Gotham XNarrow Ultra',sans-serif;
+}
+.footer {
+  &__title {
+    font-family: 'Gotham Rounded Medium',sans-serif;
+  }
+  &__credits span, & p, & a  {
+    font-family: 'Gotham Rounded Book',sans-serif
+  }
+}
+.header__nav a, .menu__list a {
+  font-family: 'Gotham Rounded Medium',sans-serif !important;
+}
+.product__buy button {
+  background: #fff;
+  border-color: #00263e;
+}
+.prices {
+  &__value {
+    font-family: 'Gotham Rounded Book';
+  }
+}
