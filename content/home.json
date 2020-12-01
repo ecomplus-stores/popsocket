@@ -77,12 +77,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/co_posicion7_092020.jpg",
-          "link": "https://www.popsockets.com.br/mais-vendidos"
+          "img": "/img/uploads/pop-banner-basics.png",
+          "link": "https://www.popsockets.com.br/basic"
         },
         {
-          "img": "/img/uploads/co_posicion8_092020.jpg",
-          "link": "https://www.popsockets.com.br/ideais-para-presente"
+          "img": "/img/uploads/pop-banner-graphic.png",
+          "link": "https://www.popsockets.com.br/graphic"
         }
       ]
     }
