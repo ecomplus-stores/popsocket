@@ -80,7 +80,7 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
 .header__nav a, .menu__list a {
   font-family: 'Gotham Rounded Medium',sans-serif !important;
 }
-.product__buy button {
+.product__buy button, .product__buy button:hover  {
   background: #fff;
   border-color: #00263e;
 }
@@ -93,4 +93,7 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
   & strong, & small, & span {
     font-family: 'Gotham Rounded Book', sans-serif !important;
   }
+}
+.top-bar__nav, .product__short-stock {
+  display: none !important;
 }
