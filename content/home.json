@@ -3,9 +3,24 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-site-popsockets-1a.png",
-      "link": "https://www.popsockets.com.br/popsockets"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mandalorian-banner-desk.png",
+          "link": "https://www.popsockets.com.br/licenciados",
+          "mobile_img": "/img/uploads/mandalorian-banner-mobile.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-popmount-desk.png",
+          "link": "https://www.popsockets.com.br/popmounts",
+          "mobile_img": "/img/uploads/popmount-banner-mobile.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
