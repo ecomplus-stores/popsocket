@@ -47,6 +47,10 @@
           "link": "https://www.popsockets.com.br/licenciados"
         },
         {
+          "img": "/img/uploads/pop-banner-graphic.png",
+          "link": "https://www.popsockets.com.br/graphic"
+        },
+        {
           "img": "/img/uploads/pop-banner-premium.png",
           "link": "https://www.popsockets.com.br/premium"
         }
@@ -77,12 +81,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pop-banner-basics.png",
-          "link": "https://www.popsockets.com.br/basic"
+          "img": "/img/uploads/co_posicion7_092020.jpg",
+          "link": "https://www.popsockets.com.br/destaques"
         },
         {
-          "img": "/img/uploads/pop-banner-graphic.png",
-          "link": "https://www.popsockets.com.br/graphic"
+          "img": "/img/uploads/co_posicion8_092020.jpg",
+          "link": "https://www.popsockets.com.br/ideais-para-presente"
         }
       ]
     }
