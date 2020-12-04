@@ -1,5 +1,4 @@
 {
-  "store_id": 1162,
   "domain": "popsockets.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
@@ -9,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-popsockets.svg",
-  "name": "O Original chegou | PopSockets.com.br®",
-  "short_name": "PopSockets.com.br®",
+  "name": "O Original chegou | PopSockets.com.br",
+  "short_name": "PopSockets.com.br",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +17,7 @@
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/favicon-128.png",
-  "description": "PopSockets.com.br®",
+  "store_id": 1162,
+  "description": "PopSockets.com.br",
   "large_icon": "/img/uploads/favicon-128.png"
 }
