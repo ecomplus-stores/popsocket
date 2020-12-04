@@ -44,27 +44,29 @@
   },
   "contacts": {
     "title": "",
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true,
-    "email": false,
+    "email": true,
     "address": true
   },
   "stamps": [],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "diners": true,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
