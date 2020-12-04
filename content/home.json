@@ -81,11 +81,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-licenciados.jpg",
+          "img": "/img/uploads/banner-2-botao.png",
           "link": "https://www.popsockets.com.br/licenciados"
         },
         {
-          "img": "/img/uploads/banner-misticos.jpg",
+          "img": "/img/uploads/banner-1-botao.png",
           "link": "https://www.popsockets.com.br/ideais-para-presente"
         }
       ]
