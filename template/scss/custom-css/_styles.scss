@@ -97,3 +97,6 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
 .top-bar__nav, .product__short-stock {
   display: none !important;
 }
+.shipping-calculator__services .active .shipping-calculator__option small, .shipping-calculator__services .active .shipping-calculator__option span, .shipping-calculator__services .active .shipping-calculator__option strong {
+  color: #fff;
+}
