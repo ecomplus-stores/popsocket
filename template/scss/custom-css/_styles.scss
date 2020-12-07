@@ -100,3 +100,14 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
 .shipping-calculator__services .active .shipping-calculator__option small, .shipping-calculator__services .active .shipping-calculator__option span, .shipping-calculator__services .active .shipping-calculator__option strong {
   color: #fff;
 }
+.shipping-calculator__services .active {
+  background-color: #222831;
+}
+.shipping-calculator__free-from-value .progress span, .shipping-calculator__free-from-value .progress strong {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #fff
+}
+.shipping-calculator__free-from-value .progress-bar {
+  background-color: #222831;
+}
