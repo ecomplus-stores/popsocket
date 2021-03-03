@@ -16,24 +16,26 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-brilhar-desk.png",
-          "alt": "Brilha2021",
-          "mobile_img": "/img/uploads/brilhar-banner-mobile.jpg",
-          "link": "https://www.popsockets.com.br/premium"
+          "img": "/img/uploads/banner-espelho-desk.png",
+          "alt": "Epelhinhoo2021",
+          "mobile_img": "/img/uploads/banner-espelho-mobile.png",
+          "link": "/popmirror"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/mandalorian-banner-desk.png",
-          "link": "https://www.popsockets.com.br/licenciados",
-          "mobile_img": "/img/uploads/mandalorian-banner-mobile.jpg"
+          "img": "/img/uploads/banner-popmount-desk2.png",
+          "link": "/popmounts",
+          "mobile_img": "/img/uploads/banner-popmount-mobile2.png",
+          "alt": "popmounts2021"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-popmount-desk.png",
-          "link": "https://www.popsockets.com.br/popmounts",
-          "mobile_img": "/img/uploads/popmount-banner-mobile-copy.png"
+          "img": "/img/uploads/banner-misticos-desk.png",
+          "link": "/ideais-para-presente",
+          "mobile_img": "/img/uploads/banner-misticos-mobile.png",
+          "alt": "OsMísticos2021"
         }
       ]
     },
