@@ -9,14 +9,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-site-popsockets-1a.png",
+          "img": "https://i.imgur.com/clso5Cp.png",
           "link": "https://www.popsockets.com.br/popsockets",
           "mobile_img": "/img/uploads/ooriginal-banner-mobile.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-espelho-desk.png",
+          "img": "https://i.imgur.com/jBEwY2m.png",
           "alt": "Epelhinhoo2021",
           "mobile_img": "/img/uploads/banner-espelho-mobile.png",
           "link": "/popmirror"
@@ -24,7 +24,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-popmount-desk2.png",
+          "img": "https://i.imgur.com/Tq4plCm.png",
           "link": "/popmounts",
           "mobile_img": "/img/uploads/banner-popmount-mobile2.png",
           "alt": "popmounts2021"
@@ -32,7 +32,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-misticos-desk.png",
+          "img": "https://i.imgur.com/xYBaeSZ.png",
           "link": "/ideais-para-presente",
           "mobile_img": "/img/uploads/banner-misticos-mobile.png",
           "alt": "OsMísticos2021"
