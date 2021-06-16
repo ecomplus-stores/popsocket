@@ -42,7 +42,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 13,
+      "limit": 24,
       "page": 1,
       "title": "NOVOS E TENDÊNCIAS",
       "sort": "news",
