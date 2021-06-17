@@ -42,7 +42,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 13,
+      "limit": 20,
       "page": 1,
       "title": "LANÇAMENTOS E TENDÊNCIAS",
       "sort": "news",
