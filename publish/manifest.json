@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5b10db43664f8ea243acea8c1dd5e7ab.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9ce4942f8426dbd4cb2b733117f3858b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ef86e81f1cb66715ffab59c9a23c6b03.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.93599ffa729824b541b24dd811e53f0f.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6070bacacbc521f7d179dc43971553c2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "O Original chegou | PopSockets.com.br",
+  "short_name": "PopSockets.com.br",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "PopSockets.com.br",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
