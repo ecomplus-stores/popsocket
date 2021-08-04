@@ -56,19 +56,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pop-banner-basics.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-basics.webp",
           "link": "https://www.popsockets.com.br/basic"
         },
         {
-          "img": "/img/uploads/pop-banner-graphic.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-graphic.webp",
           "link": "https://www.popsockets.com.br/graphic"
         },
         {
-          "img": "/img/uploads/pop-banner-licenciados.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-licenciados.webp",
           "link": "https://www.popsockets.com.br/licenciados"
         },
         {
-          "img": "/img/uploads/pop-banner-premium.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-premium.webp",
           "link": "https://www.popsockets.com.br/premium"
         }
       ]
