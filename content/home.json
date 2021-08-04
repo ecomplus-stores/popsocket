@@ -112,12 +112,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-2-botao.png",
-          "link": "https://www.popsockets.com.br/licenciados"
+          "img": "/img/uploads/anyconv.com__banner-2-botao.webp",
+          "link": "https://www.popsockets.com.br/licenciados",
+          "mobile_img": "/img/uploads/anyconv.com__banner-2-botao2.webp"
         },
         {
-          "img": "/img/uploads/banner-1-botao.png",
-          "link": "https://www.popsockets.com.br/ideais-para-presente"
+          "img": "/img/uploads/anyconv.com__banner-1-botao.webp",
+          "link": "https://www.popsockets.com.br/ideais-para-presente",
+          "mobile_img": "/img/uploads/anyconv.com__banner-1-botao__.webp"
         }
       ]
     }
