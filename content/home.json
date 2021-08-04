@@ -57,19 +57,23 @@
       "banners": [
         {
           "img": "/img/uploads/anyconv.com__pop-banner-basics.webp",
-          "link": "https://www.popsockets.com.br/basic"
+          "link": "https://www.popsockets.com.br/basic",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-basics2.webp"
         },
         {
           "img": "/img/uploads/anyconv.com__pop-banner-graphic.webp",
-          "link": "https://www.popsockets.com.br/graphic"
+          "link": "https://www.popsockets.com.br/graphic",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-graphic2.webp"
         },
         {
           "img": "/img/uploads/anyconv.com__pop-banner-licenciados.webp",
-          "link": "https://www.popsockets.com.br/licenciados"
+          "link": "https://www.popsockets.com.br/licenciados",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-licenciados2.webp"
         },
         {
           "img": "/img/uploads/anyconv.com__pop-banner-premium.webp",
-          "link": "https://www.popsockets.com.br/premium"
+          "link": "https://www.popsockets.com.br/premium",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-premium2.webp"
         }
       ]
     },
@@ -78,15 +82,18 @@
       "banners": [
         {
           "img": "/img/uploads/anyconv.com__pop-banner-luxe.webp",
-          "link": "https://www.popsockets.com.br/luxe"
+          "link": "https://www.popsockets.com.br/luxe",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-luxe2.webp"
         },
         {
           "img": "/img/uploads/anyconv.com__pop-banner-popwallets.webp",
-          "link": "https://www.popsockets.com.br/popwallets"
+          "link": "https://www.popsockets.com.br/popwallets",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-popwallets2.webp"
         },
         {
           "img": "/img/uploads/anyconv.com__pop-banner-suportes.webp",
-          "link": "https://www.popsockets.com.br/popmounts"
+          "link": "https://www.popsockets.com.br/popmounts",
+          "mobile_img": "/img/uploads/anyconv.com__pop-banner-suportes2.webp"
         }
       ]
     },
