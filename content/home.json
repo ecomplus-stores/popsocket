@@ -77,15 +77,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pop-banner-luxe.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-luxe.webp",
           "link": "https://www.popsockets.com.br/luxe"
         },
         {
-          "img": "/img/uploads/pop-banner-popwallets.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-popwallets.webp",
           "link": "https://www.popsockets.com.br/popwallets"
         },
         {
-          "img": "/img/uploads/pop-banner-suportes.png",
+          "img": "/img/uploads/anyconv.com__pop-banner-suportes.webp",
           "link": "https://www.popsockets.com.br/popmounts"
         }
       ]
