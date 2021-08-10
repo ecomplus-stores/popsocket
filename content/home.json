@@ -102,7 +102,8 @@
       "shuffle": true,
       "collection_id": null,
       "title": "VOCÊ PODE GOSTAR",
-      "page": ""
+      "page": "",
+      "sort": "sales"
     },
     {
       "type": "custom-content",
