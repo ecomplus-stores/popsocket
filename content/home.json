@@ -42,11 +42,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 20,
+      "limit": 10,
       "page": "",
       "title": "LANÇAMENTOS E TENDÊNCIAS",
       "sort": "sales",
-      "collection_id": "60ca2c23641ad82fcc2a0ba5:collections:Destaques Junho2021:/destaques-junho2021"
+      "collection_id": "5f6e3e787430f92180f54430:categories:Comprar:/comprar"
     },
     {
       "type": "custom-content",
