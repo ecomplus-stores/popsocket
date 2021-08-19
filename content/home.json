@@ -42,10 +42,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 15,
+      "limit": "",
       "page": "",
       "title": "LANÇAMENTOS E TENDÊNCIAS",
-      "sort": "views",
+      "sort": "news",
       "collection_id": "5f6e3e787430f92180f54430:categories:Comprar:/comprar"
     },
     {
@@ -103,8 +103,8 @@
       "collection_id": "5f6e3e787430f92180f54430:categories:Comprar:/comprar",
       "title": "VOCÊ PODE GOSTAR",
       "page": "",
-      "sort": "lowest_price",
-      "limit": 20
+      "sort": "news",
+      "limit": 2
     },
     {
       "type": "custom-content",
