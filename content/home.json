@@ -100,11 +100,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5f6e3e787430f92180f54430:categories:Comprar:/comprar",
-      "title": "VOCÊ PODE GOSTAR",
+      "limit": 20,
       "page": "",
+      "title": "VOCÊ PODE GOSTAR",
       "sort": "sales",
-      "limit": ""
+      "collection_id": "5f6e3e787430f92180f54430:categories:Comprar:/comprar"
     },
     {
       "type": "custom-content",
