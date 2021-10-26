@@ -41,7 +41,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": "",
       "page": "",
       "title": "LANÇAMENTOS E TENDÊNCIAS",
