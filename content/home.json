@@ -9,33 +9,49 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__umsvzj9.webp",
-          "link": "https://www.popsockets.com.br/popsockets",
-          "mobile_img": "/img/uploads/anyconv.com__ooriginal-banner-mobile.webp"
+          "img": "/img/uploads/banner-desk-pop-trasnlucent-1.jpg",
+          "link": "/popsockets",
+          "mobile_img": "/img/uploads/banner-mobile-pop-translucent-2.jpg",
+          "alt": "TranslucidoDez21"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__jbewy2m.webp",
-          "alt": "Espelhinhoo2021",
-          "mobile_img": "/img/uploads/anyconv.com__banner-espelho-mobile.webp",
-          "link": "/popmirror"
+          "img": "/img/uploads/banner-desk-magsafe-3.jpg",
+          "alt": "magsafeDez2021",
+          "mobile_img": "/img/uploads/banner-mobile-pop-magsafe-3.jpg",
+          "link": "/magsafe"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__tq4plcm.webp",
+          "img": "/img/uploads/banner-desk-pop-mount.jpg",
           "link": "/popmounts",
-          "mobile_img": "/img/uploads/anyconv.com__banner-popmount-mobile2.webp",
-          "alt": "popmounts2021"
+          "mobile_img": "/img/uploads/banne-mobile-pop-mount.jpg",
+          "alt": "popmountsDez2021"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__xybaesz.webp",
-          "link": "/ideais-para-presente",
-          "mobile_img": "/img/uploads/anyconv.com__banner-misticos-mobile.webp",
-          "alt": "OsMísticos2021"
+          "img": "/img/uploads/banner-desk-wallet-1.jpg",
+          "link": "/popwallet-for-magsafe",
+          "mobile_img": "/img/uploads/banner-mobile-pop-wallet-1.jpg",
+          "alt": "popwallet-for-maesafeDez21"
+        },
+        {
+          "start": "",
+          "end": "",
+          "link": "/popgriplips",
+          "alt": "PopgripLipBalmDez21",
+          "mobile_img": "/img/uploads/banner-mobile-pop-lip-2.jpg",
+          "img": "/img/uploads/banner-desk-pop-lips-2.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-desk-neon-1.jpg",
+          "link": "/search?term=neon",
+          "mobile_img": "/img/uploads/banner-mobile-pop-neon-1.jpg"
         }
       ]
     },
