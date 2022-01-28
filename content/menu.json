@@ -1,10 +1,25 @@
 {
   "sort_categories": [
-    "comprar",
-    "popsockets",
+    "basic",
+    "graphic",
+    "disney",
+    "dc-comics",
+    "harry-potter",
+    "marvel",
+    "star-wars",
+    "premium",
+    "luxe",
+    "backspin",
     "popwallets",
-    "popmounts"
+    "popmounts",
+    "popmirror",
+    "popgriplips",
+    "popgripslidestrech",
+    "poptopbottleopener",
+    "magsafe",
+    "popbolso"
   ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
