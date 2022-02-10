@@ -9,10 +9,30 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desk-pop-trasnlucent-1.jpg",
-          "link": "/search?term=translucent",
-          "mobile_img": "/img/uploads/banner-mobile-pop-translucent-2.jpg",
-          "alt": "TranslucidoDez21"
+          "img": "/img/uploads/anyconv.com__1-enamel-2.webp",
+          "link": "https://www.popsockets.com.br/search?term=enamel",
+          "alt": "Popsockets Enamel",
+          "mobile_img": "/img/uploads/anyconv.com__enamel-2.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/anyconv.com__2-licenciados-3-snow-white-.webp",
+          "mobile_img": "/img/uploads/anyconv.com__licenciados-3-snow-white-.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/anyconv.com__3-banner-balloon-1.webp",
+          "link": "https://www.popsockets.com.br/search?term=balloon",
+          "mobile_img": "/img/uploads/anyconv.com__banner-balloon-2.webp",
+          "alt": "Popsockets Balloon"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/anyconv.com__4-licenciados-2.webp",
+          "mobile_img": "/img/uploads/anyconv.com__licenciados-2.webp"
         },
         {
           "start": "",
@@ -33,27 +53,13 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desk-wallet-1.jpg",
-          "link": "/popwallet-for-magsafe",
-          "mobile_img": "/img/uploads/banner-mobile-pop-wallet-1.jpg",
-          "alt": "popwallet-for-maesafeDez21"
-        },
-        {
-          "start": "",
-          "end": "",
           "link": "/popgriplips",
           "alt": "PopgripLipBalmDez21",
           "mobile_img": "/img/uploads/banner-mobile-pop-lip-2.jpg",
           "img": "/img/uploads/banner-desk-pop-lips-2.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-desk-neon-1.jpg",
-          "link": "/search?term=neon",
-          "mobile_img": "/img/uploads/banner-mobile-pop-neon-1.jpg"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "collection-shelf",
