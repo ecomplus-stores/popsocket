@@ -59,7 +59,7 @@
           "img": "/img/uploads/banner-desk-pop-lips-2.jpg"
         }
       ],
-      "full_width": true
+      "full_width": false
     },
     {
       "type": "collection-shelf",
