@@ -9,38 +9,9 @@
     "list": []
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
-    "list": [
-      {
-        "text": "Basic",
-        "url": "https://www.popsockets.com.br/basic"
-      },
-      {
-        "text": "Graphic",
-        "url": "https://www.popsockets.com.br/graphic"
-      },
-      {
-        "text": "Licenciados",
-        "url": "https://www.popsockets.com.br/licenciados"
-      },
-      {
-        "text": "Premium",
-        "url": "https://www.popsockets.com.br/premium"
-      },
-      {
-        "text": "Luxe",
-        "url": "https://www.popsockets.com.br/luxe"
-      },
-      {
-        "text": "PopWallet+",
-        "url": "https://www.popsockets.com.br/popwallets"
-      },
-      {
-        "text": "PopMount",
-        "url": "https://www.popsockets.com.br/popmounts"
-      }
-    ]
+    "list": []
   },
   "contacts": {
     "title": "Contatos",
