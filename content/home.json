@@ -80,9 +80,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__pop-banner-basics.webp",
+          "img": "/img/uploads/banners-categoria-basics.png",
           "link": "https://www.popsockets.com.br/basic",
-          "mobile_img": "/img/uploads/anyconv.com__pop-banner-basics2.webp"
+          "mobile_img": "/img/uploads/banners-categoria-basics.png"
         },
         {
           "img": "/img/uploads/anyconv.com__pop-banner-graphic.webp",
