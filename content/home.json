@@ -105,19 +105,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__pop-banner-luxe.webp",
+          "img": "/img/uploads/anyconv.com__banners-categoria-luxe.webp",
           "link": "https://www.popsockets.com.br/luxe",
-          "mobile_img": "/img/uploads/anyconv.com__pop-banner-luxe2.webp"
+          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-luxe.webp"
         },
         {
-          "img": "/img/uploads/anyconv.com__pop-banner-popwallets.webp",
+          "img": "/img/uploads/anyconv.com__banners-categoria-wallet.webp",
           "link": "https://www.popsockets.com.br/popwallets",
-          "mobile_img": "/img/uploads/anyconv.com__pop-banner-popwallets2.webp"
+          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-wallet.webp"
         },
         {
-          "img": "/img/uploads/anyconv.com__pop-banner-suportes.webp",
+          "img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp",
           "link": "https://www.popsockets.com.br/popmounts",
-          "mobile_img": "/img/uploads/anyconv.com__pop-banner-suportes2.webp"
+          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp"
         }
       ]
     },
