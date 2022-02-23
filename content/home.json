@@ -138,14 +138,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__banner-2-botao2.webp",
-          "link": "https://www.popsockets.com.br/licenciados",
-          "mobile_img": "/img/uploads/anyconv.com__banner-2-botao2.webp"
+          "img": "/img/uploads/anyconv.com__magsafe.webp",
+          "link": "https://www.popsockets.com.br/magsafe",
+          "mobile_img": "/img/uploads/anyconv.com__magsafe.webp"
         },
         {
-          "img": "/img/uploads/anyconv.com__banner-1-botao__.webp",
-          "link": "https://www.popsockets.com.br/ideais-para-presente",
-          "mobile_img": "/img/uploads/anyconv.com__banner-1-botao__.webp"
+          "img": "/img/uploads/anyconv.com__translucidos.webp",
+          "link": "https://www.popsockets.com.br/search?term=translucent%2Bneon+",
+          "mobile_img": "/img/uploads/anyconv.com__translucidos.webp",
+          "alt": "Translucent + Neon"
+        },
+        {
+          "img": "/img/uploads/anyconv.com__wallet.webp",
+          "mobile_img": "/img/uploads/anyconv.com__wallet.webp",
+          "link": "https://www.popsockets.com.br/search?term=popwallet"
         }
       ]
     }
