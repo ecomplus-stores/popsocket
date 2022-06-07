@@ -16,7 +16,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__1-enamel-2.webp",
+          "img": "/img/uploads/desk-banner-pop-2x-01.webp",
           "link": "https://www.popsockets.com.br/search?term=enamel",
           "alt": "Popsockets Enamel",
           "mobile_img": "/img/uploads/anyconv.com__enamel-2.webp"
@@ -24,14 +24,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__2-licenciados-3-snow-white-.webp",
+          "img": "/img/uploads/desk-banner-pop-2x-02.webp",
           "mobile_img": "/img/uploads/anyconv.com__licenciados-3-snow-white-.webp",
-          "link": "https://www.popsockets.com.br/disney"
+          "link": "https://www.popsockets.com.br/disney",
+          "alt": "Popsockets Disney"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__3-banner-balloon-1.webp",
+          "img": "/img/uploads/desk-banner-pop-2x-03.webp",
           "link": "https://www.popsockets.com.br/search?term=balloon",
           "mobile_img": "/img/uploads/anyconv.com__banner-balloon-2.webp",
           "alt": "Popsockets Balloon"
@@ -39,33 +40,34 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/anyconv.com__4-licenciados-2.webp",
+          "img": "/img/uploads/desk-banner-pop-2x-04.webp",
           "mobile_img": "/img/uploads/anyconv.com__licenciados-2.webp",
-          "link": "https://www.popsockets.com.br/star-wars"
+          "link": "https://www.popsockets.com.br/star-wars",
+          "alt": "Popsockets Star Wars Mandalorian"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desk-magsafe-3.jpg",
-          "alt": "magsafeDez2021",
+          "img": "/img/uploads/desk-banner-pop-2x-06.webp",
+          "alt": "Popsockets MagSade",
           "mobile_img": "/img/uploads/banner-mobile-pop-magsafe-3.jpg",
           "link": "/magsafe"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desk-pop-mount.jpg",
+          "img": "/img/uploads/desk-banner-pop-2x-08.webp",
           "link": "/popmounts",
           "mobile_img": "/img/uploads/banne-mobile-pop-mount.jpg",
-          "alt": "popmountsDez2021"
+          "alt": "Popmount Flex 2"
         },
         {
           "start": "",
           "end": "",
           "link": "/popgriplips",
-          "alt": "PopgripLipBalmDez21",
+          "alt": "Popgrip Lip Balm",
           "mobile_img": "/img/uploads/banner-mobile-pop-lip-2.jpg",
-          "img": "/img/uploads/banner-desk-pop-lips-2.jpg"
+          "img": "/img/uploads/desk-banner-pop-2x-07.webp"
         }
       ],
       "full_width": false
