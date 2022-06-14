@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "🚀 Frete Grátis acima de R$199 utilizando o cupom NAMORADOSPOPSOCKETS ❤️",
+    "text": "🚀 Frete Grátis acima de R$150 ❤️",
     "background": "#00263e",
     "color": "#ffffff",
     "link": "https://www.popsockets.com.br/comprar"
@@ -17,5 +17,6 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": false
 }
