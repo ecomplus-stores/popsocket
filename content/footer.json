@@ -6,7 +6,16 @@
   "links_1": {
     "list_pages": true,
     "title": "Suporte",
-    "list": []
+    "list": [
+      {
+        "url": "pages/contato",
+        "text": "Contato"
+      },
+      {
+        "text": "Artistas e influenciadores",
+        "url": "https://novidades.popsockets.com.br/contato-artistas-influenciadores"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
