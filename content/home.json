@@ -9,10 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-promo-2-150.webp",
-          "alt": "Ganhe Frete Grátis Acima de R$ 150,00",
-          "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
-          "link": "https://www.popsockets.com.br/comprar"
+          "img": "/img/uploads/promo-3-banner-1-desck.webp",
+          "link": "https://www.popsockets.com.br/nightweek-popsockets",
+          "mobile_img": "/img/uploads/promo-3-banner-1-mobile.webp"
         },
         {
           "start": "",
@@ -21,6 +20,14 @@
           "link": "https://www.popsockets.com.br/search?term=enamel",
           "alt": "Popsockets Enamel",
           "mobile_img": "/img/uploads/anyconv.com__enamel-2.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-promo-2-150.webp",
+          "alt": "Ganhe Frete Grátis Acima de R$ 150,00",
+          "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
+          "link": "https://www.popsockets.com.br/comprar"
         },
         {
           "start": "",
