@@ -71,7 +71,7 @@
           "img": "/img/uploads/desk-banner-pop-2x-07.webp"
         }
       ],
-      "full_width": false
+      "full_width": true
     },
     {
       "type": "collection-shelf",
