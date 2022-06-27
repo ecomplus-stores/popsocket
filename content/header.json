@@ -12,7 +12,9 @@
   },
   "categories_list": {
     "featured": [
-      "/comprar?Comprar"
+      "/comprar?Comprar",
+      "/magsafe?Magsafe",
+      "/licenciados?Licenciados"
     ],
     "random": 0,
     "full_width": false
