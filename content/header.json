@@ -14,7 +14,9 @@
     "featured": [
       "/comprar?Comprar",
       "/magsafe?Magsafe",
-      "/licenciados?Licenciados"
+      "/licenciados?Licenciados",
+      "/popgrip?PopGrip",
+      "/mais?Mais"
     ],
     "random": 0,
     "full_width": true
