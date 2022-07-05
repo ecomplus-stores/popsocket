@@ -2,9 +2,26 @@
 .footer address {
   color: #fff !important
 }
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Medium.ttf') format('ttf');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 @font-face {
     font-family: 'Gotham Rounded Book';
-    src: url('GothamRounded-Book.woff') format('woff');
+    src: url('fonts/GothamRounded-Book.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
