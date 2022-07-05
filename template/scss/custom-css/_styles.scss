@@ -3,116 +3,24 @@
   color: #fff !important
 }
 
-@font-face {
-    font-family: 'Inter';
-    src: url('fonts/Inter-Regular.ttf') format('ttf');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Inter';
-    src: url('fonts/Inter-Medium.ttf') format('ttf');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Gotham Rounded Book';
-    src: url('fonts/GothamRounded-Book.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Gotham Rounded';
-    src: url('fonts/GothamRounded-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Gotham Rounded Book Italic';
-    src: url('fonts/GothamRounded-BookItalic.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Gotham XNarrow Ultra';
-    src: url('fonts/GothamXNarrow-Ultra.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Gotham XNarrow';
-    src: url('fonts/GothamXNarrow-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Gotham';
-    src: url('fonts/Gotham-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
 #c-5f6e3e787430f92180f54430 {
     display: none;
 }
-@font-face {font-family: "Gotham Rounded Medium";
-  src: url("fonts/font-mobi.eot"); /* IE9*/
-  src: url("fonts/font-mobi.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-  url("fonts/font-mobi.woff2") format("woff2"), /* chrome、firefox */
-  url("fonts/font-mobi.woff") format("woff"), /* chrome、firefox */
-  url("fonts/font-mobi.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url("fonts/font-mobi.svg#Gotham Rounded Medium") format("svg"); /* iOS 4.1- */
-}
+
 body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
   color: #00263e;
 }
-.product-card__name, .product__name, .breadcrumb-item, .breadcrumb-item a {
-  font-family: 'Gotham Rounded Book', sans-serif !important;
-}
+
 .collectionID h2 {
   width: 100%;
   text-align: center;
-  font-family: 'Gotham XNarrow Ultra',sans-serif;
 }
-.footer {
-  &__title {
-    font-family: 'Gotham Rounded Medium',sans-serif;
-  }
-  &__credits span, & p, & a  {
-    font-family: 'Gotham Rounded Book',sans-serif
-  }
-}
-.header__nav a, .menu__list a {
-  font-family: 'Gotham Rounded Medium',sans-serif !important;
-}
+
 .product__buy button, .product__buy button:hover  {
   background: #fff;
   border-color: #00263e;
 }
-.prices {
-  &__value {
-    font-family: 'Gotham Rounded Book';
-  }
-}
-.shipping-calculator {
-  & strong, & small, & span {
-    font-family: 'Gotham Rounded Book', sans-serif !important;
-  }
-}
+
 .top-bar__nav, .product__short-stock {
   display: none !important;
 }
