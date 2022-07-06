@@ -136,9 +136,9 @@
       "shuffle": true,
       "limit": 20,
       "page": "",
-      "title": "VOCÊ PODE GOSTAR",
+      "title": "Você pode gostar",
       "sort": "news",
-      "collection_id": "5f6e3e787430f92180f54430:categories:Comprar:/comprar"
+      "collection_id": "5fd3703869274c73fce76507:collections:Destaques da semana:/destaques-da-semana"
     },
     {
       "type": "custom-content",
