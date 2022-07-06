@@ -17,6 +17,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/desk-enamel-03.webp",
+          "link": "https://www.popsockets.com.br/search?term=enamel",
+          "alt": "Popsockets Enamel",
+          "mobile_img": "/img/uploads/mobile-enamel-03.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "link": "/popgriplips",
           "alt": "Popgrip Lip Balm",
           "mobile_img": "/img/uploads/mobile-lips-ajustado2.0.webp",
@@ -33,10 +41,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-enamel-03.webp",
-          "link": "https://www.popsockets.com.br/search?term=enamel",
-          "alt": "Popsockets Enamel",
-          "mobile_img": "/img/uploads/mobile-enamel-03.webp"
+          "img": "/img/uploads/desk-balloon-a2.0.webp",
+          "link": "https://www.popsockets.com.br/search?term=balloon",
+          "mobile_img": "/img/uploads/mobile-balloon2.0.webp",
+          "alt": "Popsockets Balloon"
         },
         {
           "start": "",
@@ -45,14 +53,6 @@
           "alt": "Ganhe Frete Grátis Acima de R$ 150,00",
           "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
           "link": "https://www.popsockets.com.br/comprar"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desk-balloon-a2.0.webp",
-          "link": "https://www.popsockets.com.br/search?term=balloon",
-          "mobile_img": "/img/uploads/mobile-balloon2.0.webp",
-          "alt": "Popsockets Balloon"
         }
       ],
       "full_width": true
