@@ -5,8 +5,20 @@
     background: transparent;
     border: none !important;
   }
-  main input.header__search-input:focus {
+  .header__search-input:focus {
     border: 1px solid #e9ecef !important;
+  }
+  .header__search-input::placeholder {
+    color: white;
+  }
+  .header__search-input::-ms-input-placeholder {
+    color: white;
+  }
+  .header__search-input:focus::placeholder {
+    color: var(--gray);
+  }
+  .header__search-input:focus::-ms-input-placeholder {
+    color: var(--gray);
   }
 }
 
