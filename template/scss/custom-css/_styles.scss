@@ -1,22 +1,12 @@
 // Add your custom CSS here.
 
 @media (min-width: 992px) {
-  main input.header__search-input {
+  .header__search-input {
     background: transparent;
-    border: none;
-  }
-  main input.header__search-input::placeholder,
-  main input.header__search-input::-ms-input-placeholder {
-    color: transparent;
-    opacity: 0;
+    border: none !important;
   }
   main input.header__search-input:focus {
-    border: 1px solid #e9ecef;
-  }
-  main input.header__search-input:focus::placeholder,
-  main input.header__search-input:focus::-ms-input-placeholder {
-    color: var(--gray);
-    opacity: 1;
+    border: 1px solid #e9ecef !important;
   }
 }
 
