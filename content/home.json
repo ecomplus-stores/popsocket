@@ -9,6 +9,38 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/desk-wallet-a.webp",
+          "mobile_img": "/img/uploads/mobile-wallet.webp",
+          "link": "https://www.popsockets.com.br/popwallet-for-magsafe",
+          "alt": "PopsWallet for MagSafe"
+        },
+        {
+          "start": "",
+          "end": "",
+          "link": "/popgriplips",
+          "alt": "Popgrip Lip Balm",
+          "mobile_img": "/img/uploads/mobile-lips.webp",
+          "img": "/img/uploads/desk-lips-a.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-lenticular-a.webp",
+          "mobile_img": "/img/uploads/mobile-lenticular.webp",
+          "link": "https://www.popsockets.com.br/popsockets-lenticular-wink",
+          "alt": "Popsockets Lenticular Wink"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-enamel-02-a.webp",
+          "link": "https://www.popsockets.com.br/search?term=enamel",
+          "alt": "Popsockets Enamel",
+          "mobile_img": "/img/uploads/mobile-enamel-02.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/desk-promo-2-150.webp",
           "alt": "Ganhe Frete Grátis Acima de R$ 150,00",
           "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
@@ -17,58 +49,26 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-banner-pop-2x-01.webp",
-          "link": "https://www.popsockets.com.br/search?term=enamel",
-          "alt": "Popsockets Enamel",
-          "mobile_img": "/img/uploads/anyconv.com__enamel-2.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desk-banner-pop-2x-02.webp",
-          "mobile_img": "/img/uploads/anyconv.com__licenciados-3-snow-white-.webp",
-          "link": "https://www.popsockets.com.br/disney",
-          "alt": "Popsockets Disney"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desk-banner-pop-2x-03.webp",
-          "link": "https://www.popsockets.com.br/search?term=balloon",
-          "mobile_img": "/img/uploads/anyconv.com__banner-balloon-2.webp",
-          "alt": "Popsockets Balloon"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desk-banner-pop-2x-04.webp",
-          "mobile_img": "/img/uploads/anyconv.com__licenciados-2.webp",
-          "link": "https://www.popsockets.com.br/star-wars",
-          "alt": "Popsockets Star Wars Mandalorian"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desk-banner-pop-2x-06.webp",
+          "img": "/img/uploads/desk-magsafe-a.webp",
           "alt": "Popsockets MagSade",
-          "mobile_img": "/img/uploads/banner-mobile-pop-magsafe-3.jpg",
+          "mobile_img": "/img/uploads/mobile-magsafe.webp",
           "link": "/magsafe"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-banner-pop-2x-08.webp",
+          "img": "/img/uploads/desk-mount-a.webp",
           "link": "/popmounts",
-          "mobile_img": "/img/uploads/banne-mobile-pop-mount.jpg",
+          "mobile_img": "/img/uploads/mobile-mount.webp",
           "alt": "Popmount Flex 2"
         },
         {
           "start": "",
           "end": "",
-          "link": "/popgriplips",
-          "alt": "Popgrip Lip Balm",
-          "mobile_img": "/img/uploads/banner-mobile-pop-lip-2.jpg",
-          "img": "/img/uploads/desk-banner-pop-2x-07.webp"
+          "img": "/img/uploads/desk-balloon-a.webp",
+          "link": "https://www.popsockets.com.br/search?term=balloon",
+          "mobile_img": "/img/uploads/mobile-balloon.webp",
+          "alt": "Popsockets Balloon"
         }
       ],
       "full_width": true
