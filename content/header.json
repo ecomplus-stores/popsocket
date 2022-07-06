@@ -19,6 +19,7 @@
       "/popmounts?PopSuporte",
       "/popwallets?PopCarteira",
       "/premium?Premium",
+      "/luxe?Luxe",
       "/mais?Mais"
     ],
     "random": 0,
