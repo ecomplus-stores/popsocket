@@ -25,14 +25,6 @@
         {
           "start": "",
           "end": "",
-          "link": "/popgriplips",
-          "alt": "Popgrip Lip Balm",
-          "mobile_img": "/img/uploads/mobile-lips-ajustado2.0.webp",
-          "img": "/img/uploads/desk-lips-ajustado2.0.webp"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/desk-lenticular-a2.0.webp",
           "mobile_img": "/img/uploads/mobile-lenticular2.0.webp",
           "link": "https://www.popsockets.com.br/popsockets-lenticular-wink",
@@ -45,6 +37,14 @@
           "link": "https://www.popsockets.com.br/search?term=balloon",
           "mobile_img": "/img/uploads/mobile-balloon2.0.webp",
           "alt": "Popsockets Balloon"
+        },
+        {
+          "start": "",
+          "end": "",
+          "link": "/popgriplips",
+          "alt": "Popgrip Lip Balm",
+          "mobile_img": "/img/uploads/mobile-lips-ajustado2.0.webp",
+          "img": "/img/uploads/desk-lips-ajustado2.0.webp"
         },
         {
           "start": "",
