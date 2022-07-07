@@ -64,7 +64,8 @@
       "page": "",
       "title": "Lançamentos e tendências",
       "sort": "news",
-      "collection_id": null
+      "collection_id": null,
+      "link": "/comprar"
     },
     {
       "type": "custom-content",
