@@ -152,7 +152,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h1 class=\"slider-title py-3 text-left header-s\">Escolha seu preferido</h1>\n\n<h2 class=\"slider-title py-3 text-left header-s\">Escolha seu preferido</h2>\n\n<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:left\">[Destaques](https://www.popsockets.com.br/comprar)</h2></div></div>\n\n[<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h1 class=\"my-0\"><div style=\"text-align:left\">Destaques</h1></div></div>](https://www.popsockets.com.br/comprar)"
+      "markdown": "<h1 class=\"slider-title py-3 text-left header-s\">Escolha seu preferido</h1>\n\n<h4 class=\"slider-title py-3 text-left header-s\">Escolha seu preferido</h4>"
     }
   ]
 }
