@@ -149,10 +149,6 @@
           "link": "https://www.popsockets.com.br/search?term=popwallet"
         }
       ]
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<h1 class=\"slider-title py-3 text-left header-s\">Escolha seu preferido</h1>\n\n<h4 class=\"slider-title py-3 text-left header-s\">Escolha seu preferido</h4>"
     }
   ]
 }
