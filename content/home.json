@@ -149,6 +149,10 @@
           "link": "https://www.popsockets.com.br/search?term=popwallet"
         }
       ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div style=\"text-align:left\">Destaques</p></div>"
     }
   ]
 }
