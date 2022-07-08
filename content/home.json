@@ -126,6 +126,9 @@
       ]
     },
     {
+      "type": "page-title"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 20,
