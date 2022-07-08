@@ -58,14 +58,15 @@
       "full_width": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
       "page": "",
-      "title": "Lançamentos e tendências",
-      "sort": "news",
+      "title": "",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
       "collection_id": null,
-      "link": "/comprar"
+      "sort": "news"
     },
     {
       "type": "custom-content",
