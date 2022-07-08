@@ -58,6 +58,10 @@
       "full_width": true
     },
     {
+      "type": "page-title",
+      "title": "Lançamentos e tendências"
+    },
+    {
       "page": "",
       "title": "",
       "shuffle": false,
@@ -150,10 +154,6 @@
           "link": "https://www.popsockets.com.br/search?term=popwallet"
         }
       ]
-    },
-    {
-      "type": "page-title",
-      "title": "Destaques"
     }
   ]
 }
