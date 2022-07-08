@@ -126,7 +126,8 @@
       ]
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": " "
     },
     {
       "type": "collection-shelf",
