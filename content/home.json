@@ -130,6 +130,10 @@
       "title": " "
     },
     {
+      "type": "page-title",
+      "title": "Você pode gostar"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
