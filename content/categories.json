@@ -12,6 +12,11 @@
       "enabled": true
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
       "type": "category-retail",
       "enabled": true,
       "sort": "news"
