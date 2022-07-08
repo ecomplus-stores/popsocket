@@ -153,6 +153,14 @@
     {
       "type": "custom-content",
       "markdown": "Destaques"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5f6e55b17430f92180f55167:categories:Mais vendidos:/mais-vendidos",
+      "sort": "sales"
     }
   ]
 }
