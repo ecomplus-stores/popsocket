@@ -132,11 +132,12 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 20,
+      "limit": 24,
       "page": "",
-      "title": "Você pode gostar",
+      "title": "",
       "sort": "news",
-      "collection_id": null
+      "collection_id": null,
+      "headless": true
     },
     {
       "type": "custom-content",
