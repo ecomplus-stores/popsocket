@@ -78,6 +78,53 @@
     },
     {
       "type": "custom-content",
+      "markdown": "###### <div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">Coleções em destaque</h2></div></div>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/magsafe.webp",
+          "link": "https://www.popsockets.com.br/magsafe",
+          "mobile_img": "/img/uploads/magsafe.webp"
+        },
+        {
+          "img": "/img/uploads/translu-ucido.webp",
+          "link": "https://www.popsockets.com.br/search?term=translucent%2Bneon+",
+          "mobile_img": "/img/uploads/translu-ucido.webp",
+          "alt": "Translucent + Neon"
+        },
+        {
+          "img": "/img/uploads/popwallet.webp",
+          "mobile_img": "/img/uploads/popwallet.webp",
+          "link": "https://www.popsockets.com.br/search?term=popwallet"
+        },
+        {
+          "img": "/img/uploads/popmount.webp",
+          "link": "https://www.popsockets.com.br/popmounts"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/img_4313.png"
+    },
+    {
+      "type": "page-title",
+      "title": "Você pode gostar"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": "",
+      "title": "",
+      "sort": "news",
+      "collection_id": null,
+      "headless": true
+    },
+    {
+      "type": "custom-content",
       "markdown": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">ESCOLHA SEU PREFERIDO</h2></div></div>"
     },
     {
@@ -122,57 +169,6 @@
           "img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp",
           "link": "https://www.popsockets.com.br/popmounts",
           "mobile_img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp"
-        }
-      ]
-    },
-    {
-      "type": "page-title",
-      "title": " "
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img_4313.png"
-    },
-    {
-      "type": "page-title",
-      "title": "Você pode gostar"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": "",
-      "title": "",
-      "sort": "news",
-      "collection_id": null,
-      "headless": true
-    },
-    {
-      "type": "custom-content",
-      "markdown": "###### <div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">Coleções em destaque</h2></div></div>"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/magsafe.webp",
-          "link": "https://www.popsockets.com.br/magsafe",
-          "mobile_img": "/img/uploads/magsafe.webp"
-        },
-        {
-          "img": "/img/uploads/translu-ucido.webp",
-          "link": "https://www.popsockets.com.br/search?term=translucent%2Bneon+",
-          "mobile_img": "/img/uploads/translu-ucido.webp",
-          "alt": "Translucent + Neon"
-        },
-        {
-          "img": "/img/uploads/popwallet.webp",
-          "mobile_img": "/img/uploads/popwallet.webp",
-          "link": "https://www.popsockets.com.br/search?term=popwallet"
-        },
-        {
-          "img": "/img/uploads/popmount.webp",
-          "link": "https://www.popsockets.com.br/popmounts"
         }
       ]
     }
