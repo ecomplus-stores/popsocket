@@ -155,19 +155,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__magsafe.webp",
+          "img": "/img/uploads/magsafe.webp",
           "link": "https://www.popsockets.com.br/magsafe",
-          "mobile_img": "/img/uploads/anyconv.com__magsafe.webp"
+          "mobile_img": "/img/uploads/magsafe.webp"
         },
         {
-          "img": "/img/uploads/anyconv.com__translucidos.webp",
+          "img": "/img/uploads/translu-ucido.webp",
           "link": "https://www.popsockets.com.br/search?term=translucent%2Bneon+",
-          "mobile_img": "/img/uploads/anyconv.com__translucidos.webp",
+          "mobile_img": "/img/uploads/translu-ucido.webp",
           "alt": "Translucent + Neon"
         },
         {
-          "img": "/img/uploads/anyconv.com__wallet.webp",
-          "mobile_img": "/img/uploads/anyconv.com__wallet.webp",
+          "img": "/img/uploads/popwallet.webp",
+          "mobile_img": "/img/uploads/popwallet.webp",
           "link": "https://www.popsockets.com.br/search?term=popwallet"
         }
       ]
