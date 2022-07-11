@@ -9,18 +9,18 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-wallet-ajustado.webp",
-          "mobile_img": "/img/uploads/mobile-wallet-ajustado.webp",
-          "link": "https://www.popsockets.com.br/popwallet-for-magsafe",
-          "alt": "PopsWallet for MagSafe"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/desk-enamel-03.webp",
           "link": "https://www.popsockets.com.br/search?term=enamel",
           "alt": "Popsockets Enamel",
           "mobile_img": "/img/uploads/mobile-enamel-03.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-wallet-ajustado.webp",
+          "mobile_img": "/img/uploads/mobile-wallet-ajustado.webp",
+          "link": "https://www.popsockets.com.br/popwallet-for-magsafe",
+          "alt": "PopsWallet for MagSafe"
         },
         {
           "start": "",
@@ -33,18 +33,18 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-balloon-a2.0.webp",
-          "link": "https://www.popsockets.com.br/search?term=balloon",
-          "mobile_img": "/img/uploads/mobile-balloon2.0.webp",
-          "alt": "Popsockets Balloon"
-        },
-        {
-          "start": "",
-          "end": "",
           "link": "/popgriplips",
           "alt": "Popgrip Lip Balm",
           "mobile_img": "/img/uploads/mobile-lips-ajustado2.0.webp",
           "img": "/img/uploads/desk-lips-ajustado2.0.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-magsafe-a2.0.webp",
+          "link": "https://www.popsockets.com.br/magsafe",
+          "mobile_img": "/img/uploads/mobile-magsafe2.0.webp",
+          "alt": "Popsockets MagSafe"
         },
         {
           "start": "",
