@@ -22,32 +22,28 @@
     "title": "Categorias",
     "list": [
       {
-        "text": "Basic",
-        "url": "https://www.popsockets.com.br/basic"
+        "text": "Destaques",
+        "url": "https://www.popsockets.com.br/comprar"
       },
       {
-        "text": "Graphic",
-        "url": "https://www.popsockets.com.br/graphic"
+        "text": "MagSafe",
+        "url": "https://www.popsockets.com.br/magsafe"
       },
       {
-        "text": "Disney",
-        "url": "https://www.popsockets.com.br/disney"
+        "text": "Licenciados",
+        "url": "https://www.popsockets.com.br/licenciados"
       },
       {
-        "text": "DC Comics",
-        "url": "https://www.popsockets.com.br/dc-comics"
+        "text": "PopGrip",
+        "url": "https://www.popsockets.com.br/popgrip"
       },
       {
-        "text": "Harry Potter",
-        "url": "https://www.popsockets.com.br/harry-potter"
+        "text": "PopSuporte",
+        "url": "https://www.popsockets.com.br/popmounts"
       },
       {
-        "text": "Marvel",
-        "url": "https://www.popsockets.com.br/marvel"
-      },
-      {
-        "text": "Star Wars",
-        "url": "https://www.popsockets.com.br/star-wars"
+        "text": "PopCarteira",
+        "url": "https://www.popsockets.com.br/popwallets"
       },
       {
         "text": "Premium",
@@ -58,24 +54,12 @@
         "url": "https://www.popsockets.com.br/luxe"
       },
       {
-        "text": "Giratório",
-        "url": "https://www.popsockets.com.br/backspin"
+        "text": "Basic",
+        "url": "https://www.popsockets.com.br/basic"
       },
       {
-        "text": "PopCarteira+",
-        "url": "https://www.popsockets.com.br/popwallets"
-      },
-      {
-        "text": "PopSuporte",
-        "url": "https://www.popsockets.com.br/popmounts"
-      },
-      {
-        "text": "PopEspelho",
-        "url": "https://www.popsockets.com.br/popmirror"
-      },
-      {
-        "text": "PopLabial",
-        "url": "https://www.popsockets.com.br/popgriplips"
+        "text": "Graphic",
+        "url": "https://www.popsockets.com.br/graphic"
       },
       {
         "text": "PopAjustável",
@@ -86,12 +70,8 @@
         "url": "https://www.popsockets.com.br/poptopbottleopener"
       },
       {
-        "text": "MagSafe",
-        "url": "https://www.popsockets.com.br/#a-magsafe"
-      },
-      {
-        "text": "PopBolso",
-        "url": "https://www.popsockets.com.br/popbolso"
+        "text": "Giratório",
+        "url": "https://www.popsockets.com.br/poptopbottleopener"
       }
     ]
   },
