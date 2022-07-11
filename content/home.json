@@ -169,6 +169,10 @@
           "img": "/img/uploads/popwallet.webp",
           "mobile_img": "/img/uploads/popwallet.webp",
           "link": "https://www.popsockets.com.br/search?term=popwallet"
+        },
+        {
+          "img": "/img/uploads/popmount.webp",
+          "link": "https://www.popsockets.com.br/popmounts"
         }
       ]
     }
