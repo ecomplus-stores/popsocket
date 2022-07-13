@@ -45,14 +45,6 @@
           "link": "https://www.popsockets.com.br/magsafe",
           "mobile_img": "/img/uploads/mobile-magsafe2.0.webp",
           "alt": "Popsockets MagSafe"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-promo-desk.webp",
-          "alt": "Ganhe Frete Grátis Acima de R$ 150,00",
-          "mobile_img": "/img/uploads/banners-promo-mobile.webp",
-          "link": "https://www.popsockets.com.br/comprar"
         }
       ],
       "full_width": true
