@@ -45,6 +45,13 @@
           "link": "https://www.popsockets.com.br/magsafe",
           "mobile_img": "/img/uploads/mobile-magsafe2.0.webp",
           "alt": "Popsockets MagSafe"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ajuste-desk-1-.webp",
+          "link": "https://www.popsockets.com.br/comprar",
+          "mobile_img": "/img/uploads/ajuste-mobile-1-.webp"
         }
       ],
       "full_width": true
