@@ -171,6 +171,21 @@
           "mobile_img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/body-banner-desk-01-1-.webp",
+          "mobile_img": "/img/uploads/body-banner-mobile-1-.webp",
+          "link": "https://www.popsockets.com.br/popsockets-enamel-evil-eye",
+          "alt": "Popsockets Enamel Evil Eye"
+        }
+      ]
     }
   ]
 }
