@@ -95,20 +95,6 @@
       "img": "/img/uploads/img_4313.png"
     },
     {
-      "type": "page-title",
-      "title": "Você pode gostar"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": "",
-      "title": "",
-      "sort": "news",
-      "collection_id": null,
-      "headless": true
-    },
-    {
       "type": "custom-content",
       "markdown": "###### <div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">Coleções em destaque</h2></div></div>"
     },
@@ -136,6 +122,20 @@
           "link": "https://www.popsockets.com.br/popmounts"
         }
       ]
+    },
+    {
+      "type": "page-title",
+      "title": "Você pode gostar"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": "",
+      "title": "",
+      "sort": "news",
+      "collection_id": null,
+      "headless": true
     },
     {
       "type": "banner-slider",
