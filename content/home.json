@@ -76,6 +76,21 @@
       "sort": "news"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/body-banner-desk-01-1-.webp",
+          "mobile_img": "/img/uploads/body-banner-mobile-1-.webp",
+          "link": "/popsockets-enamel-evil-eye",
+          "alt": "PopSockets Enamel Evil Eye"
+        }
+      ]
+    },
+    {
       "type": "custom-content",
       "markdown": "###### <div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">Coleções em destaque</h2></div></div>"
     },
