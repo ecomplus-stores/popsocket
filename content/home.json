@@ -91,6 +91,24 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/img_4313.png"
+    },
+    {
+      "type": "page-title",
+      "title": "Você pode gostar"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": "",
+      "title": "",
+      "sort": "news",
+      "collection_id": null,
+      "headless": true
+    },
+    {
       "type": "custom-content",
       "markdown": "###### <div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">Coleções em destaque</h2></div></div>"
     },
@@ -120,22 +138,19 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img_4313.png"
-    },
-    {
-      "type": "page-title",
-      "title": "Você pode gostar"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": "",
-      "title": "",
-      "sort": "news",
-      "collection_id": null,
-      "headless": true
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/body-banner-2-desk.png",
+          "mobile_img": "/img/uploads/body-banner-2-mobile.png",
+          "link": "https://www.popsockets.com.br/popwallet-mickey-classic-pattern",
+          "alt": "PopWallet+ Mickey Classic Pattern"
+        }
+      ]
     },
     {
       "type": "custom-content",
