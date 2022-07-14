@@ -153,6 +153,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/aaaa.png"
+    },
+    {
       "type": "custom-content",
       "markdown": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\">ESCOLHA SEU PREFERIDO</h2></div></div>"
     },
