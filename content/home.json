@@ -91,6 +91,14 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/img_4313.png"
+    },
+    {
+      "type": "page-title",
+      "title": "Coleções em destaque"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
