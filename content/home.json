@@ -104,7 +104,8 @@
         {
           "img": "/img/uploads/magsafe.webp",
           "link": "https://www.popsockets.com.br/magsafe",
-          "mobile_img": "/img/uploads/magsafe.webp"
+          "mobile_img": "/img/uploads/magsafe.webp",
+          "alt": "PopSockets MagSafe"
         },
         {
           "img": "/img/uploads/translu-ucido.webp",
