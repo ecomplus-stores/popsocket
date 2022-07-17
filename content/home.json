@@ -102,24 +102,24 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/magsafe.webp",
+          "img": "/img/uploads/magsafe-min.webp",
           "link": "https://www.popsockets.com.br/magsafe",
           "mobile_img": "/img/uploads/magsafe.webp",
           "alt": "PopSockets MagSafe"
         },
         {
-          "img": "/img/uploads/translu-ucido.webp",
+          "img": "/img/uploads/translu-ucido-min.webp",
           "link": "https://www.popsockets.com.br/search?term=translucent%2Bneon+",
           "mobile_img": "/img/uploads/translu-ucido.webp",
           "alt": "Translucent + Neon"
         },
         {
-          "img": "/img/uploads/popwallet.webp",
+          "img": "/img/uploads/popwallet-min.webp",
           "mobile_img": "/img/uploads/popwallet.webp",
           "link": "https://www.popsockets.com.br/search?term=popwallet"
         },
         {
-          "img": "/img/uploads/popmount.webp",
+          "img": "/img/uploads/popmount-min.webp",
           "link": "https://www.popsockets.com.br/popmounts"
         }
       ]
