@@ -150,10 +150,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/body-banner-2-desk.png",
-          "mobile_img": "/img/uploads/body-banner-2-mobile.png",
-          "link": "https://www.popsockets.com.br/popwallet-mickey-classic-pattern",
-          "alt": "PopWallet+ Mickey Face Pattern"
+          "img": "http://www.comercial.customic.com.br/news/banners_pop/desk.mov",
+          "mobile_img": "http://www.comercial.customic.com.br/news/banners_pop/mobile.mov",
+          "link": "/popgrip/popgrip-for-magsafe",
+          "alt": "PopGrip MagSafe"
         }
       ]
     },
