@@ -67,7 +67,7 @@
     {
       "page": "",
       "title": "",
-      "shuffle": false,
+      "shuffle": true,
       "headless": true,
       "type": "collection-shelf",
       "link": "",
