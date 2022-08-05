@@ -183,19 +183,22 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__banners-categoria-luxe.webp",
+          "img": "/img/uploads/luxe.webp",
           "link": "https://www.popsockets.com.br/luxe",
-          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-luxe.webp"
+          "mobile_img": "/img/uploads/luxe.webp",
+          "alt": "PopSockets PopGrip Luxe #PhoneBetter #oOriginalChegou"
         },
         {
-          "img": "/img/uploads/anyconv.com__banners-categoria-wallet.webp",
+          "img": "/img/uploads/popwallets-2.webp",
           "link": "https://www.popsockets.com.br/popwallets",
-          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-wallet.webp"
+          "mobile_img": "/img/uploads/popwallets-2.webp",
+          "alt": "PopSockets PopGrip PopCarteira PopWallet #PhoneBetter #oOriginalChegou"
         },
         {
-          "img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp",
+          "img": "/img/uploads/popsuporte-1.webp",
           "link": "https://www.popsockets.com.br/popmounts",
-          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-suportes.webp"
+          "mobile_img": "/img/uploads/popsuporte-1.webp",
+          "alt": "PopSockets PopGrip PopSuporte PopMount #PhoneBetter #oOriginalChegou"
         }
       ]
     }
