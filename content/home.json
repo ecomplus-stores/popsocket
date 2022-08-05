@@ -154,9 +154,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__banners-categoria-basics.webp",
+          "img": "/img/uploads/basic.webp",
           "link": "https://www.popsockets.com.br/basic",
-          "mobile_img": "/img/uploads/anyconv.com__banners-categoria-basics.webp"
+          "mobile_img": "/img/uploads/basic.webp",
+          "alt": "PopSockets PopGrip Basic #PhoneBetter"
         },
         {
           "img": "/img/uploads/anyconv.com__banners-categoria-graphics.webp",
