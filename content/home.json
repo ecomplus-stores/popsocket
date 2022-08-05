@@ -138,7 +138,7 @@
       "limit": 24,
       "page": "",
       "title": "",
-      "sort": "sales",
+      "sort": "lowest_price",
       "collection_id": null,
       "headless": true
     },
