@@ -144,7 +144,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "**Escolha seu Preferido**"
+      "markdown": "<div class=\"page-title container mt-4 mb-4 mb-lg-5\"><div class=\"collectionID\"><h2 class=\"my-0\"><b>Escolha seu Preferido</b></h2></div></div>"
     },
     {
       "type": "banners-grid",
