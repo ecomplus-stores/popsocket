@@ -197,6 +197,13 @@
           "alt": "PopSockets PopGrip PopSuporte PopMount #PhoneBetter #oOriginalChegou"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales"
     }
   ]
 }
