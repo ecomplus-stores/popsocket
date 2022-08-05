@@ -203,7 +203,8 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "sales"
+      "sort": "sales",
+      "title": "Mais Vendidos"
     }
   ]
 }
