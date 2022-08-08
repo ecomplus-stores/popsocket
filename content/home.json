@@ -9,17 +9,17 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-promo-ajustado.webp",
-          "link": "https://www.popsockets.com.br/comprar",
-          "mobile_img": "/img/uploads/mobile-promo-ajustado.webp"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner-desk-pop-lancamento-translucent-night-garden-min.webp",
           "link": "https://www.popsockets.com.br/translucent-night-garden",
           "alt": "PopSockets Night Garden",
           "mobile_img": "/img/uploads/banner-mobile-pop-lancamento-translucent-night-garden-min.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-promo-ajustado.webp",
+          "link": "https://www.popsockets.com.br/comprar",
+          "mobile_img": "/img/uploads/mobile-promo-ajustado.webp"
         },
         {
           "start": "",
