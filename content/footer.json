@@ -84,6 +84,10 @@
   },
   "stamps": [
     {
+      "src": "/img/uploads/google-selo-1-.webp",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.popsockets.com.br%2F"
+    },
+    {
       "src": "/img/uploads/safe-browsing.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.popsockets.com.br%2F"
     },
@@ -92,8 +96,8 @@
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.popsockets.com.br"
     },
     {
-      "src": "/img/uploads/google-selo-1-.webp",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.popsockets.com.br%2F"
+      "src": "/img/uploads/selo-norton-secured-1-.webp",
+      "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fwww.popsockets.com.br"
     }
   ],
   "payment_methods": {
