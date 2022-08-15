@@ -90,6 +90,10 @@
     {
       "src": "/img/uploads/ssl.png",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.popsockets.com.br"
+    },
+    {
+      "src": "/img/uploads/google-selo-1-.webp",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.popsockets.com.br%2F"
     }
   ],
   "payment_methods": {
