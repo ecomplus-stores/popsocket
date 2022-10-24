@@ -66,7 +66,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/img_4313.png"
+      "img": "/img/uploads/body-banner-desk.webp",
+      "link": "https://www.popsockets.com.br/popsockets-plant-ecogrip",
+      "alt": "PopSockets Plant EcoGrip",
+      "mobile_img": "/img/uploads/body-banner-mobile.webp"
     },
     {
       "type": "page-title",
