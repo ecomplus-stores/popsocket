@@ -123,4 +123,18 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
     padding:10px;
   }
 }
-
+.product-card--inactive .badge.badge-dark.mt-auto {
+  font-size: 0;
+  &::after {
+    content: "Esgotado";
+    font-size: 15px !important;
+  }
+}
+.seal-plant::before  {  
+  content: url(https://www.comercial.customic.com.br/news/popsocket/plant_based.png);
+  position: absolute;
+  left: 0px
+} 
+.btn.product-card__favorite.fade {
+  right: 0;
+}

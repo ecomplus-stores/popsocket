@@ -1,12 +1,17 @@
 <%
 const itemData = {}
-let itemDataFields = ['_id', 'sku', 'slug', 'quantity']
+let itemDataFields = ['_id', 'sku', 'slug', 'quantity', 'keywords']
 if (Array.isArray(_.itemDataFields)) {
   itemDataFields = itemDataFields.concat(_.itemDataFields)
 }
 itemDataFields.forEach(field => itemData[field] = opt.item[field])
 itemData.name = _.ecomUtils.name(opt.item)
 itemData.price = _.ecomUtils.price(opt.item)
+
+let checkPlant
+if (itemData.keywords) {
+  checkPlant = itemData.keywords.some(keyword => keyword.toLowerCase() === 'plant')
+}
 
 const imgObj = _.ecomUtils.img(opt.item)
 if (imgObj) {
@@ -19,7 +24,7 @@ if (imgObj) {
 
 <article class="product-item" data-product="<%= JSON.stringify(itemData) %>">
   <div
-    class="product-card"
+    class="product-card <%= checkPlant ? 'seal-plant' : '' %>"
     data-product-id="<%= itemData._id %>"
     data-sku="<%= itemData.sku %>"
     <% if (!opt.static) { %>
