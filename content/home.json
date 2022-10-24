@@ -65,11 +65,19 @@
       "full_width": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/body-banner-desk.webp",
-      "link": "https://www.popsockets.com.br/popsockets-plant-ecogrip",
-      "alt": "PopSockets Plant EcoGrip",
-      "mobile_img": "/img/uploads/body-banner-mobile.webp"
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/body-banner-desk.webp",
+          "mobile_img": "/img/uploads/body-banner-mobile.webp",
+          "link": "https://www.popsockets.com.br/popsockets-plant-ecogrip",
+          "alt": "PopSockets Plant EcoGrip"
+        }
+      ]
     },
     {
       "type": "page-title",
