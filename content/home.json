@@ -99,6 +99,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "#"
+    },
+    {
       "type": "page-title",
       "title": "PopSockets® Plant EcoGrip"
     },
