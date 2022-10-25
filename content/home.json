@@ -73,17 +73,6 @@
       "title": "Lançamentos e tendências"
     },
     {
-      "page": "",
-      "title": "",
-      "shuffle": false,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": null,
-      "sort": "news"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
@@ -99,8 +88,23 @@
       ]
     },
     {
+      "page": "",
+      "title": "",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": null,
+      "sort": "news"
+    },
+    {
       "type": "page-title",
       "title": "PopSockets® Plant EcoGrip"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "\\"
     },
     {
       "type": "collection-shelf",
