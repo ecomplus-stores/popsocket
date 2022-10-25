@@ -65,6 +65,10 @@
       "full_width": true
     },
     {
+      "type": "custom-content",
+      "markdown": "# \\"
+    },
+    {
       "type": "page-title",
       "title": "Lançamentos e tendências"
     },
