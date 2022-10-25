@@ -69,6 +69,17 @@
       "markdown": "#"
     },
     {
+      "page": "",
+      "title": "",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": null,
+      "sort": "news"
+    },
+    {
       "type": "page-title",
       "title": "Lançamentos e tendências"
     },
@@ -86,17 +97,6 @@
           "alt": "PopSockets Plant EcoGrip"
         }
       ]
-    },
-    {
-      "page": "",
-      "title": "",
-      "shuffle": false,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": null,
-      "sort": "news"
     },
     {
       "type": "page-title",
