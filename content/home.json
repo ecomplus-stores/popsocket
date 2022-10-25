@@ -100,7 +100,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "`\\`"
+      "markdown": "``"
     },
     {
       "type": "page-title",
