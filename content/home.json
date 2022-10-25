@@ -99,6 +99,18 @@
       ]
     },
     {
+      "type": "page-title"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "PopSockets® Plant EcoGrip",
+      "sort": "sales",
+      "collection_id": "62e7b9c9eb859112169f7f75:categories:PopSockets Plant EcoGrip:/popsockets-plant-ecogrip"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/img_4313.png"
     },
