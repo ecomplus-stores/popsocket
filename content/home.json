@@ -69,6 +69,10 @@
       "markdown": "#"
     },
     {
+      "type": "page-title",
+      "title": "Lançamentos e tendências"
+    },
+    {
       "page": "",
       "title": "",
       "shuffle": false,
@@ -78,10 +82,6 @@
       "limit": "",
       "collection_id": null,
       "sort": "news"
-    },
-    {
-      "type": "page-title",
-      "title": "Lançamentos e tendências"
     },
     {
       "type": "banner-slider",
@@ -99,12 +99,12 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "PopSockets® Plant EcoGrip"
+      "type": "custom-content",
+      "markdown": "`\\`"
     },
     {
-      "type": "custom-content",
-      "markdown": "\\"
+      "type": "page-title",
+      "title": "PopSockets® Plant EcoGrip"
     },
     {
       "type": "collection-shelf",
