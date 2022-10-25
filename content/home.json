@@ -109,7 +109,8 @@
       "page": 1,
       "title": "  ",
       "sort": "sales",
-      "collection_id": "62e7b9c9eb859112169f7f75:categories:PopSockets Plant EcoGrip:/popsockets-plant-ecogrip"
+      "collection_id": "62e7b9c9eb859112169f7f75:categories:PopSockets® Plant EcoGrip:/popsockets-plant-ecogrip",
+      "headless": true
     },
     {
       "type": "responsive-banner",
