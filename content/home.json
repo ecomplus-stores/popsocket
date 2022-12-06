@@ -68,13 +68,13 @@
     {
       "page": "",
       "title": "",
-      "shuffle": false,
+      "shuffle": true,
       "headless": true,
       "type": "collection-shelf",
       "link": "",
       "limit": "",
       "collection_id": null,
-      "sort": "news"
+      "sort": "lowest_price"
     },
     {
       "type": "banner-slider",
