@@ -12,7 +12,7 @@
           "img": "/img/uploads/banner-01-desk.webp",
           "link": "https://www.popsockets.com.br/popsockets-popgrip-plant-eco-grip-light-jade",
           "alt": "PlantEcoGrip 2023",
-          "mobile_img": "/img/uploads/banner-01-mobile.webp"
+          "mobile_img": "/img/uploads/plant-mobile.webp"
         },
         {
           "start": "",
@@ -20,7 +20,7 @@
           "img": "/img/uploads/banner-02-desk.webp",
           "link": "https://www.popsockets.com.br/popsockets-popgrip-for-magsafe-on-cloud--nine",
           "alt": "PopSockets Magsafe On Cloud Nine 2023",
-          "mobile_img": "/img/uploads/banner-02-mobile.webp"
+          "mobile_img": "/img/uploads/oncloud-mobile.webp"
         },
         {
           "start": "",
@@ -28,7 +28,7 @@
           "img": "/img/uploads/banner-desk-pop-lancamento-translucent-night-garden-min.webp",
           "link": "https://www.popsockets.com.br/translucent-night-garden",
           "alt": "PopSockets Night Garden",
-          "mobile_img": "/img/uploads/banner-mobile-pop-lancamento-translucent-night-garden-min.webp"
+          "mobile_img": "/img/uploads/mobile-pop-lancamento-translucent-night-garden-min.webp"
         },
         {
           "start": "",
@@ -36,7 +36,7 @@
           "img": "/img/uploads/desk-enamel-03.webp",
           "link": "https://www.popsockets.com.br/search?term=enamel",
           "alt": "Popsockets Enamel",
-          "mobile_img": "/img/uploads/mobile-enamel-03.webp"
+          "mobile_img": "/img/uploads/mobile-enamel-03-min.webp"
         },
         {
           "start": "",
@@ -50,7 +50,7 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/desk-lenticular-a2.0.webp",
-          "mobile_img": "/img/uploads/mobile-lenticular2.0.webp",
+          "mobile_img": "/img/uploads/mobile-lenticular2.0-min.webp",
           "link": "https://www.popsockets.com.br/popsockets-lenticular-wink",
           "alt": "Popsockets Lenticular Wink"
         },
@@ -65,7 +65,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-magsafe-a2.0.webp",
+          "img": "/img/uploads/mobile-magsafe2.0.webp",
           "link": "https://www.popsockets.com.br/magsafe",
           "mobile_img": "/img/uploads/mobile-magsafe2.0.webp",
           "alt": "Popsockets MagSafe"
