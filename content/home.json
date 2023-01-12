@@ -94,16 +94,16 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 10000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/body-banner-desk-1-.webp",
-          "mobile_img": "/img/uploads/body-banner-mobile.webp",
-          "link": "https://www.popsockets.com.br/popsockets-plant-ecogrip",
-          "alt": "PopSockets Plant EcoGrip"
+          "img": "/img/uploads/new-body-banner-desk.webp",
+          "mobile_img": "/img/uploads/new-body-banner-mobile-1-.webp",
+          "link": "https://www.popsockets.com.br/comprar",
+          "alt": "Popsockets Incríveis para 2023"
         }
       ]
     },
