@@ -9,6 +9,22 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-01-desk.webp",
+          "link": "https://www.popsockets.com.br/popsockets-popgrip-plant-eco-grip-light-jade",
+          "alt": "PlantEcoGrip 2023",
+          "mobile_img": "/img/uploads/banner-01-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-02-desk.webp",
+          "link": "https://www.popsockets.com.br/popsockets-popgrip-for-magsafe-on-cloud--nine",
+          "alt": "PopSockets Magsafe On Cloud Nine 2023",
+          "mobile_img": "/img/uploads/banner-02-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-desk-pop-lancamento-translucent-night-garden-min.webp",
           "link": "https://www.popsockets.com.br/translucent-night-garden",
           "alt": "PopSockets Night Garden",
