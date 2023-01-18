@@ -1,4 +1,16 @@
 // Add your custom CSS here.
+@media(max-width: 375px) {
+  #logo {
+  max-width: 100px !important;
+}
+.header__buttons i {
+  font-size: 18px !important;
+}
+.header__buttons a i::before {
+  width: 20px !important;
+  height: 20px !important;
+}
+}
 
 @media (min-width: 992px) {
   .header__search-input {
