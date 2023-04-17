@@ -84,6 +84,10 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Lançamentos e tendências"
+    },
+    {
       "type": "custom-content",
       "markdown": "#"
     },
@@ -112,10 +116,6 @@
           "alt": "Popsockets Incríveis para 2023"
         }
       ]
-    },
-    {
-      "type": "page-title",
-      "title": "Lançamentos e tendências"
     },
     {
       "type": "custom-content",
