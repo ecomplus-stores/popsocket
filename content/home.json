@@ -120,12 +120,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 13,
       "page": 1,
       "title": "  ",
       "sort": "sales",
-      "collection_id": "62e7b9c9eb859112169f7f75:categories:PopSockets® Plant EcoGrip:/popsockets-plant-ecogrip",
+      "collection_id": "62cda742eb8591121683db67:categories:Enamel:/enamel",
       "headless": true
     },
     {
