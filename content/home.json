@@ -74,6 +74,27 @@
       "full_width": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-meio-deskcherrypopsockets-1-.png",
+          "mobile_img": "/img/uploads/banner-meio-mobilecherrypopsockets-2-.png",
+          "link": "https://www.popsockets.com.br/comprar"
+        }
+      ]
+    },
+    {
+      "page": "",
+      "title": "",
+      "shuffle": true,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": null,
+      "sort": "sales"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
@@ -89,33 +110,12 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-meio-deskcherrypopsockets-1-.png",
-          "mobile_img": "/img/uploads/banner-meio-mobilecherrypopsockets-2-.png",
-          "link": "https://www.popsockets.com.br/comprar"
-        }
-      ]
-    },
-    {
       "type": "custom-content",
       "markdown": "#"
     },
     {
       "type": "page-title",
       "title": "Lançamentos e tendências"
-    },
-    {
-      "page": "",
-      "title": "",
-      "shuffle": true,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": null,
-      "sort": "sales"
     },
     {
       "type": "custom-content",
