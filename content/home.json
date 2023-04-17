@@ -77,8 +77,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannermodghostmarbledesk-3-.png",
-          "mobile_img": "/img/uploads/bannermodghostmarblemobile.png"
+          "img": "/img/uploads/banner-meio-deskcherrypopsockets-1-.png",
+          "mobile_img": "/img/uploads/banner-meio-mobilecherrypopsockets-2-.png",
+          "link": "https://www.popsockets.com.br/comprar"
         }
       ]
     },
