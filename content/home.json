@@ -74,6 +74,21 @@
       "full_width": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/new-body-banner-desk.webp",
+          "mobile_img": "/img/uploads/new-body-banner-mobile-1-.webp",
+          "link": "https://www.popsockets.com.br/comprar",
+          "alt": "Popsockets Incríveis para 2023"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -101,21 +116,6 @@
       "limit": "",
       "collection_id": null,
       "sort": "sales"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/new-body-banner-desk.webp",
-          "mobile_img": "/img/uploads/new-body-banner-mobile-1-.webp",
-          "link": "https://www.popsockets.com.br/comprar",
-          "alt": "Popsockets Incríveis para 2023"
-        }
-      ]
     },
     {
       "type": "custom-content",
