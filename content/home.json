@@ -84,23 +84,16 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Lançamentos e tendências"
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais Vendidos"
     },
     {
       "type": "custom-content",
       "markdown": "#"
-    },
-    {
-      "page": "",
-      "title": "",
-      "shuffle": true,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": null,
-      "sort": "sales"
     },
     {
       "type": "banner-slider",
@@ -244,12 +237,19 @@
       ]
     },
     {
-      "type": "collection-shelf",
+      "type": "page-title",
+      "title": "Lançamentos e tendências"
+    },
+    {
+      "page": "",
+      "title": "",
       "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "title": "Mais Vendidos"
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": null,
+      "sort": "sales"
     }
   ]
 }
