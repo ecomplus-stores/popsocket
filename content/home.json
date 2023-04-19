@@ -250,6 +250,10 @@
       "limit": "",
       "collection_id": null,
       "sort": "news"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<script async src=\"https://cdn.builder.io/js/fiddle\"></script>\n\n<builder-fiddle entry=\"720368c2f3134dab8374053c1a58f795\"></builder-fiddle>"
     }
   ]
 }
