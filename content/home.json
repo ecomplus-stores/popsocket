@@ -84,10 +84,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Últimos Lançamentos"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
