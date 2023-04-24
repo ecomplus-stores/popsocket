@@ -94,7 +94,8 @@
       "page": 1,
       "collection_id": "5f6e4f5d7430f92180f54e67:categories:Destaques:/comprar",
       "sort": "views",
-      "title": "Últimos Lançamentos"
+      "title": "",
+      "headless": true
     },
     {
       "type": "collection-shelf",
