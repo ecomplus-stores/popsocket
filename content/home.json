@@ -95,12 +95,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
       "sort": "sales",
       "title": "Mais Vendidos",
-      "collection_id": "5f6e4b637430f92180f54c3d:brands:PopSocket:/popsocket"
+      "collection_id": "5f6e4f5d7430f92180f54e67:categories:Destaques:/comprar"
     },
     {
       "type": "custom-content",
