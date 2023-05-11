@@ -46,32 +46,16 @@
         "url": "https://www.popsockets.com.br/popwallets"
       },
       {
+        "text": "Premium",
+        "url": "https://www.popsockets.com.br/premium"
+      },
+      {
         "text": "Luxe",
         "url": "https://www.popsockets.com.br/luxe"
       },
       {
-        "text": "Basic",
-        "url": "https://www.popsockets.com.br/basic"
-      },
-      {
-        "text": "Graphic",
-        "url": "https://www.popsockets.com.br/graphic"
-      },
-      {
-        "text": "PopAjustável",
-        "url": "https://www.popsockets.com.br/popgripslidestrech"
-      },
-      {
-        "text": "PopAbridor",
-        "url": "https://www.popsockets.com.br/poptopbottleopener"
-      },
-      {
-        "text": "Giratório",
-        "url": "https://www.popsockets.com.br/poptopbottleopener"
-      },
-      {
-        "text": "Premium",
-        "url": "https://www.popsockets.com.br/premium"
+        "text": "Mais",
+        "url": "https://www.popsockets.com.br/mais"
       }
     ]
   },
