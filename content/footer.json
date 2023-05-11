@@ -46,10 +46,6 @@
         "url": "https://www.popsockets.com.br/popwallets"
       },
       {
-        "text": "Premium",
-        "url": "https://www.popsockets.com.br/premium"
-      },
-      {
         "text": "Luxe",
         "url": "https://www.popsockets.com.br/luxe"
       },
@@ -72,6 +68,10 @@
       {
         "text": "Giratório",
         "url": "https://www.popsockets.com.br/poptopbottleopener"
+      },
+      {
+        "text": "Premium",
+        "url": "https://www.popsockets.com.br/premium"
       }
     ]
   },
