@@ -99,7 +99,10 @@ import {
 
       isPlant () {
         const keywords = this.body && this.body.keywords
-        return keywords.some(keyword => keyword.toLowerCase() === 'plant')
+        if (keywords && keywords.length) {
+          return keywords.some(keyword => keyword.toLowerCase() === 'plant')
+        }
+        return false
       },
   
       buyHtml () {
