@@ -82,6 +82,17 @@
       "full_width": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-meio-deskbrilhocustomic-3-.png",
+          "mobile_img": "/img/uploads/banner-meio-mobilellhamapopsockets-6-.png",
+          "link": "https://www.popsockets.com.br/comprar",
+          "alt": "Promo Mês de Férias Popsockets BR 2023"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
