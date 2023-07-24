@@ -248,14 +248,6 @@
       "limit": "",
       "collection_id": "62e82d41eb85911216a07936:categories:Translúcidos:/translucidos",
       "sort": "sales"
-    },
-    {
-      "type": "custom-html",
-      "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-31bea869-aea4-461d-9a80-6c52f8156342\"></div>"
-    },
-    {
-      "type": "custom-html",
-      "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n    <div class=\"elfsight-app-55750e4a-d7b1-4fe1-8495-2ed89251e0a0\"></div>"
     }
   ]
 }
