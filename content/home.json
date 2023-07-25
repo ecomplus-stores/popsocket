@@ -112,22 +112,22 @@
       "collection_id": "62ba068beb8591121668eee6:categories:PopGrip:/popgrip"
     },
     {
-      "type": "page-title",
-      "title": "Licenciados Disney®"
+      "type": "custom-html",
+      "html": "<h2 id=\"title-site\" class=\"products-carousel__title\">Licenciados Disney®</h2>"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "title": "  ",
+      "title": "",
       "sort": "sales",
       "collection_id": "62c5d38ceb8591121679300a:categories:Licenciados:/licenciados",
       "headless": true
     },
     {
-      "type": "page-title",
-      "title": "Coleções em destaque"
+      "type": "custom-html",
+      "html": "<h2 id=\"title-site\" class=\"products-carousel__title\">Coleções em destaque</h2>"
     },
     {
       "type": "banners-grid",
@@ -160,8 +160,8 @@
       "img": "/img/uploads/img_4313.png"
     },
     {
-      "type": "page-title",
-      "title": "Você pode gostar"
+      "type": "custom-html",
+      "html": "<h2 id=\"title-site\" class=\"products-carousel__title\">Você pode gostar</h2>"
     },
     {
       "type": "collection-shelf",
@@ -174,8 +174,8 @@
       "headless": true
     },
     {
-      "type": "page-title",
-      "title": "                                                                  Escolha seu Preferido"
+      "type": "custom-html",
+      "html": "<h2 id=\"title-site\" class=\"products-carousel__title\">Escolha seu Preferido</h2>"
     },
     {
       "type": "banners-grid",
@@ -230,17 +230,17 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Lançamentos e tendências"
+      "type": "custom-html",
+      "html": "<h2 id=\"title-site\" class=\"products-carousel__title\">Lançamentos e tendências</h2>"
     },
     {
-      "page": "",
+      "page": "1",
       "title": "",
       "shuffle": true,
       "headless": true,
       "type": "collection-shelf",
       "link": "",
-      "limit": "",
+      "limit": "12",
       "collection_id": "62e82d41eb85911216a07936:categories:Translúcidos:/translucidos",
       "sort": "sales"
     }
