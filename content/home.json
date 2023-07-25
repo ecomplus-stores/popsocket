@@ -82,10 +82,6 @@
       "full_width": true
     },
     {
-      "type": "custom-html",
-      "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n    <div class=\"elfsight-app-f48f157a-a169-4003-b30f-7a21eb373394\"></div>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
@@ -103,10 +99,6 @@
       "sort": "sales",
       "title": "Mais Vendidos",
       "collection_id": "62ba068beb8591121668eee6:categories:PopGrip:/popgrip"
-    },
-    {
-      "type": "custom-html",
-      "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-5fdb10de-e6b8-4d77-8f4a-15155e54d26b\"></div>"
     },
     {
       "type": "page-title",
