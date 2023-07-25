@@ -84,7 +84,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
       "collection_id": "5f6e4f5d7430f92180f54e67:categories:Destaques:/comprar",
       "sort": "views",
@@ -94,7 +94,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
       "sort": "sales",
       "title": "Mais Vendidos",
@@ -107,7 +107,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 13,
+      "limit": 12,
       "page": 1,
       "title": "  ",
       "sort": "sales",
