@@ -274,7 +274,7 @@ const isCentralizedLogo = header.centralized_logo
                 <a
                   href="/<%= slug %>"
                   class="header__category"
-                  id="cd-<%= _id %>"
+                  id="cd-<%= slug %>"
                   <%- hasMegamenu
                     ? `onmouseover="toggleSubmenu('${slug}', this)" onclick="toggleSubmenu('${slug}', this, true)"`
                     : `onclick="toggleSidenav('${slug}')"` %>
