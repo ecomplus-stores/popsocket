@@ -35,3 +35,9 @@ lozad(document.getElementById('popup-rd'), {
     document.getElementById('popup-rd').appendChild(script)
   }
 }).observe()
+
+$(window).one('scroll', () => {
+  if (!localStorage.getItem('cookieconsent')) {
+    document.getElementById('cookieconsent').classList.remove("d-none");
+  }
+})
