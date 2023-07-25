@@ -82,6 +82,17 @@
       "full_width": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/promo-julho-mod-marble-desk.webp",
+          "mobile_img": "/img/uploads/promo-julho-mod-marble-mobile.webp",
+          "alt": "Mês de Férias Popsockets 2023",
+          "link": "https://www.popsockets.com.br/comprar"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
