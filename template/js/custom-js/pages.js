@@ -1,4 +1,6 @@
 // Add your custom JavaScript for storefront pages here.
+import lozad from 'lozad'
+
 if (window.storefront && window.storefront.context && window.storefront.context.resource === 'products') {
     storefront.on('widget:@ecomplus/widget-tag-manager', function () {
       setTimeout(function () {
