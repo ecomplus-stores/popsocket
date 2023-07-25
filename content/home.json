@@ -105,16 +105,8 @@
       "collection_id": "62ba068beb8591121668eee6:categories:PopGrip:/popgrip"
     },
     {
-      "type": "custom-content",
-      "markdown": "#"
-    },
-    {
       "type": "custom-html",
       "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-5fdb10de-e6b8-4d77-8f4a-15155e54d26b\"></div>"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "#"
     },
     {
       "type": "page-title",

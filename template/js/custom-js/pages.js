@@ -20,3 +20,16 @@ if (window.storefront && window.storefront.context && window.storefront.context.
 // document.getElementById('c-5f1f3f57f023684cdbd4a1eb').href = '/hardbox-all'
 // document.getElementById('c-5f1f3f3bf023684cdbd4a1af').href = '/impactor-clear-all'
 // document.getElementById('c-5fb80f6669274c73fcd951f5').href = '/seed-eco-case-antibacteria'
+
+//popup
+lozad(document.getElementById('popup-rd'), {
+  rootMargin: '350px 0px',
+  threshold: 0,
+  load () {
+    const script = document.createElement('script')
+    script.src = 'https://d335luupugsy2.cloudfront.net/js/loader-scripts/b3a09786-1c91-467f-9918-edf7f86cbf1b-loader.js'
+    script.id = 'rd-popup'
+    script.async = true
+    document.getElementById('popup-rd').appendChild(script)
+  }
+}).observe()
