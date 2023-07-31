@@ -9,14 +9,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "6361650d73321213f8c62591:collections:Aproveite! Frete grátis Brasil pedidos acima de R$120:/aproveite-frete-gratis-brasil-pedidos-acima-de-120",
-      "sort": "views"
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
