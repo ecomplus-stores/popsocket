@@ -1,5 +1,8 @@
-@import '#template/scss/main';
-
 @import '@fontsource-variable/inter';
+
+// Supports weights 300-700
+@import '@fontsource-variable/space-grotesk';
+
+@import '#template/scss/main';
 
 @import 'custom-css/styles';
