@@ -82,6 +82,22 @@
       "full_width": true
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "62c5d38ceb8591121679300a:categories:Licenciados:/licenciados",
+        "5f71080c7430f92180f5bc8e:categories:Premium:/premium",
+        "62c5d1f4eb85911216792b5a:categories:MagSafe:/magsafe",
+        "62cda742eb8591121683db67:categories:Enamel:/enamel",
+        "5ff74e9e69274c73fcf22a80:categories:PopLabial:/popgriplips",
+        "62e7b9c9eb859112169f7f75:categories:PopSockets® Plant EcoGrip:/popsockets-plant-ecogrip"
+      ],
+      "shelfs_title": "Navegue por Categoria",
+      "sort": "sales"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -231,19 +247,6 @@
       "link": "",
       "limit": "12",
       "collection_id": "62e82d41eb85911216a07936:categories:Translúcidos:/translucidos",
-      "sort": "sales"
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": true,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "62c5d38ceb8591121679300a:categories:Licenciados:/licenciados",
-        "5f71080c7430f92180f5bc8e:categories:Premium:/premium",
-        "62c83b24eb859112167d642a:categories:PopCarteira:/pop-carteira"
-      ],
-      "shelfs_title": "Últimos Comprados",
       "sort": "sales"
     }
   ]
