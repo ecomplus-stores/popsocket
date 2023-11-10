@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Frete Grátis acima de R$120",
-    "background": "#00263e",
+    "background": "#181818",
     "color": "#e7e7e7",
     "link": "https://www.popsockets.com.br/comprar"
   },
@@ -23,7 +23,7 @@
       "/mais?Mais"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true,
   "desktop_megamenu": true,
