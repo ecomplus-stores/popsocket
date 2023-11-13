@@ -180,7 +180,6 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
   padding: 20px;
   border: 1px solid #181818;
   border-radius: 100px;
-  min-width: 130px;
   opacity: 1;
   h4 {
     margin-bottom: 0;
@@ -219,3 +218,8 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
   }
 }
 
+.shelfs-nav__title {
+  font-weight: Bold;
+  letter-spacing: -1px;
+  font-size: 26px;
+}
