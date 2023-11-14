@@ -82,6 +82,15 @@
       "full_width": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais Vendidos",
+      "collection_id": "62ba068beb8591121668eee6:categories:PopGrip:/popgrip"
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 12,
@@ -97,15 +106,6 @@
       ],
       "shelfs_title": "Navegue por Categoria",
       "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Mais Vendidos",
-      "collection_id": "62ba068beb8591121668eee6:categories:PopGrip:/popgrip"
     },
     {
       "type": "custom-html",
