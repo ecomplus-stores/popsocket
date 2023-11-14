@@ -222,4 +222,14 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
   font-weight: Bold;
   letter-spacing: -1px;
   font-size: 26px;
+  margin: var(--spacer-4) auto;
+  padding: 0 4rem;
+  max-width: var(--content-max-width);
+}
+
+.shelfs-nav__tab {
+  text-align: center;
+}
+.shelfs-nav__tabs li {
+  min-width: unset !important;
 }
