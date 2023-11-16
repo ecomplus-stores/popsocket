@@ -96,12 +96,12 @@
       "limit": 12,
       "page": 1,
       "collection_ids": [
+        "62c5d11aeb8591121679294f:categories:PopSuporte:/popmounts",
+        "5f7228d17430f92180f5eeea:categories:PopCarteira:/popwallets",
         "62c5d38ceb8591121679300a:categories:Licenciados:/licenciados",
         "5f71080c7430f92180f5bc8e:categories:Premium:/premium",
         "5fad251880c6216a3fc519f0:categories:Graphic:/graphic",
-        "62ba068beb8591121668eee6:categories:PopGrip:/popgrip",
-        "5f7228d17430f92180f5eeea:categories:PopCarteira:/popwallets",
-        "62c5d11aeb8591121679294f:categories:PopSuporte:/popmounts"
+        "5f6e4f5d7430f92180f54e67:categories:Últimos Lançamentos:/comprar"
       ],
       "shelfs_title": "Navegue por Categoria",
       "sort": "sales"
