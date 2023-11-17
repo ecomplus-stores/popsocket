@@ -246,6 +246,13 @@
       "limit": "12",
       "collection_id": "62e82d41eb85911216a07936:categories:Translúcidos:/translucidos",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null
     }
   ]
 }
