@@ -9,6 +9,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/popsockets_-banner-black-week.webp",
+          "link": "/black-week-popsockets",
+          "alt": "Black Week Popsockets",
+          "mobile_img": "/img/uploads/popsockets_-banner-black-week-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-desk-novissimos-pop.webp",
           "link": "https://www.popsockets.com.br/comprar",
           "mobile_img": "/img/uploads/mobile-novissimos-pop.webp",
