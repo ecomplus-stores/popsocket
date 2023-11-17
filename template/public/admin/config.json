@@ -4,5 +4,89 @@
     "branch": "master",
     "identity_url": "https://gotrue.ecomplus.biz/1162/.netlify/identity",
     "gateway_url": "https://gitgateway.ecomplus.biz/1162/.netlify/git"
+  },
+  "collections": [
+    {},
+    {},
+    {
+      "name": "pages",
+      "files": [
+        {
+          "name": "home",
+          "label": "Página inicial",
+          "file": "content/home.json",
+          "fields": [
+            {
+              "label": "Meta title",
+              "name": "meta_title",
+              "widget": "string",
+              "hint": "Título exibido na aba do navegador e nos resultados de motores de busca, relevante para SEO",
+              "required": false
+            },
+            {
+              "label": "Meta description",
+              "name": "meta_description",
+              "widget": "string",
+              "hint": "Descrição exibida nos resultados de motores de busca, relevante para SEO",
+              "required": false
+            },
+            {
+              "label": "Seções",
+              "name": "sections",
+              "widget": "list",
+              "types": [
+                {
+                  "label": "Grid de categorias",
+                  "name": "categories-carousel",
+                  "widget": "object",
+                  "fields": [
+                      {
+                          "label": "Banners",
+                          "name": "banners",
+                          "widget": "list",
+                          "fields": [
+                              {
+                                  "label": "Imagem",
+                                  "name": "img",
+                                  "widget": "image"
+                              },
+                              {
+                                  "label": "Link",
+                                  "required": false,
+                                  "name": "link",
+                                  "widget": "string"
+                              },
+                              {
+                                  "label": "Alt",
+                                  "required": false,
+                                  "name": "alt",
+                                  "widget": "string"
+                              }
+                          ]
+                      },
+                      {
+                          "label": "Carousel autoplay",
+                          "required": false,
+                          "name": "autoplay",
+                          "hint": "Exibição de cada página em milisegundos, 0 desativa o autoplay",
+                          "min": 0,
+                          "step": 1000,
+                          "widget": "number"
+                      },
+                      {
+                        "label": "Título da estante de banner",
+                        "required": false,
+                        "name": "title",
+                        "widget": "string"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
   }
-}
+  
