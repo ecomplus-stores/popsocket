@@ -122,6 +122,10 @@ import {
           (typeof window === 'object' && window.productCardBuyText) ||
           i18n(i19buy)
       },
+
+      isBlack () {
+        return window.promoName || "Oferta Black Friday"
+      },
   
       isInStock () {
         return checkInStock(this.body)
