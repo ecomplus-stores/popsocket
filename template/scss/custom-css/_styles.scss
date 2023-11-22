@@ -250,6 +250,9 @@ body, p, span, em, h1, h2, h3, h4, h5, h6, small, strong, b {
   border-radius: 2px;
   padding: 4px 6px;
   margin-right: 6px;
+  b {
+    color: rgb(204, 12, 57) !important;
+  }
 }
 
 .product-card__link {
