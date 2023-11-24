@@ -277,7 +277,7 @@ const hasAllDepartments = header.menu_all_departments
                   </nav>
               </div>
             <% } %>
-            <% categories.forEach(({ slug, name, _id}) => { %>
+            <% categories.forEach(({ slug, name, _id }) => { %>
               <% let $categoryLink %>
               <div class="d-inline-block">
                 <a
@@ -302,9 +302,13 @@ const hasAllDepartments = header.menu_all_departments
                       }
                     %>
                     <nav class="header__submenu<%= fullWidthSubmenu ? ' header__submenu--full' : '' %>" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
-                      <% subcategories.forEach(subcategory => { %>
-                        <div>               
-                          <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>"><%= subcategory.name %></a>
+                      <% subcategories.forEach((subcategory, index) => {
+                        const urlIcon = subcategory.icon && subcategory.icon.url ? `background-image: url(${subcategory.icon.url});background-repeat: no-repeat !important;background-position: 90% 50% !important; height: 70px; display: flex; align-items: center; min-width: 300px` : ''
+                        %>
+                        <div style="<%= urlIcon %>">               
+                          <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>">
+                            <%= subcategory.name %>
+                          </a>
                           <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
                           <%
                             if (isAlphabeticalOrderSubmenu) {
