@@ -305,9 +305,22 @@ const hasAllDepartments = header.menu_all_departments
                       <% subcategories.forEach((subcategory, index) => {
                         const urlIcon = subcategory.icon && subcategory.icon.url ? `background-image: url(${subcategory.icon.url});background-repeat: no-repeat !important;background-position: 90% 50% !important; height: 70px; display: flex; align-items: center; min-width: 300px` : ''
                         %>
-                        <div style="<%= urlIcon %>">               
+                        <div>             
                           <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>">
-                            <%= subcategory.name %>
+                            <% if (subcategory.icon) { %>
+                              <span class="menu__item-icon">
+                                <img
+                                  data-src="<%= subcategory.icon.url %>"
+                                  alt="<%= subcategory.icon.alt || subcategory.name %>"
+                                  class="lozad"
+                                  data-preload="<%= (index * 200) %>"
+                                >
+                              </span>
+                            <% } %>
+                            <span>
+                              <%= subcategory.name %>
+                            </span>
+                            
                           </a>
                           <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
                           <%

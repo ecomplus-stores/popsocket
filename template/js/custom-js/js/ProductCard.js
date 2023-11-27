@@ -124,7 +124,7 @@ import {
       },
 
       isBlack () {
-        return window.promoName || "Oferta Black Friday"
+        return window.promoName || ""
       },
   
       isInStock () {
