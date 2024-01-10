@@ -260,13 +260,13 @@ import {
       },
   
       isOnSale () {
-        const { mockNewPromoDate } = this
         return this.hasPromotionTimer &&
-          (checkOnPromotion(mockNewPromoDate) || this.body.price > this.fixedPrice) &&
-          mockNewPromoDate.price_effective_date &&
-          mockNewPromoDate.price_effective_date.end &&
-          Date.now() < new Date(mockNewPromoDate.price_effective_date.end).getTime()
-      },  
+          checkOnPromotion(this.body) &&
+          this.body.price > this.fixedPrice &&
+          this.body.price_effective_date &&
+          this.body.price_effective_date.end &&
+          Date.now() < new Date(this.body.price_effective_date.end).getTime()
+      },   
   
       ghostProductForPrices () {
         const prices = {}
@@ -601,7 +601,7 @@ import {
         setStickyBuyObserver()
       }
       if (this.isOnSale) {
-        const promotionDate = new Date(this.mockNewPromoDate.price_effective_date.end)
+        const promotionDate = new Date(this.body.price_effective_date.end)
         const now = Date.now()
         if (promotionDate.getTime() > now) {
           let targetDate
