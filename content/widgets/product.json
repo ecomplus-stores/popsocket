@@ -1,12 +1,12 @@
 {
   "pkg": "@ecomplus/widget-product",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "options": {
     "buyText": "Adicionar ao carrinho",
     "buy": "",
     "strHasQuantitySelector": "_",
-    "strHasPromotionTimer": "_",
+    "strHasPromotionTimer": " ",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6,
     "quoteInfo": ""
