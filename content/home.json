@@ -96,11 +96,11 @@
       "limit": 12,
       "page": 1,
       "collection_ids": [
+        "5f71080c7430f92180f5bc8e:categories:Premium:/premium",
+        "62c5d38ceb8591121679300a:categories:Licenciados:/licenciados",
+        "5fad251880c6216a3fc519f0:categories:Graphic:/graphic",
         "62c5d11aeb8591121679294f:categories:PopSuporte:/popmounts",
         "5f7228d17430f92180f5eeea:categories:PopCarteira:/popwallets",
-        "62c5d38ceb8591121679300a:categories:Licenciados:/licenciados",
-        "5f71080c7430f92180f5bc8e:categories:Premium:/premium",
-        "5fad251880c6216a3fc519f0:categories:Graphic:/graphic",
         "617325a99bb4ce40f93b4fdd:categories:PopWallet for Magsafe:/magsafe/popwallet-for-magsafe",
         "62c5a36beb8591121678b0fb:categories:Desk & Dash Mount:/desk--dash-mount"
       ],
