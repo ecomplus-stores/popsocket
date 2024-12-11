@@ -68,20 +68,20 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/google-selo-1-.webp",
+      "src": "/img/uploads/icone_preto_sitesegurogoogle_2.svg",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.popsockets.com.br%2F",
       "alt": " "
     },
     {
-      "src": "/img/uploads/selo-norton-secured-1-.webp",
+      "src": "/img/uploads/icone_preto_norton.svg",
       "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fwww.popsockets.com.br"
     },
     {
-      "src": "/img/uploads/ssl.png",
+      "src": "/img/uploads/icone_preto_ssl-1-.svg",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.popsockets.com.br"
     },
     {
-      "src": "/img/uploads/safe-browsing.png",
+      "src": "/img/uploads/icone_preto_sitesegurogoogle_2.svg",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.popsockets.com.br%2F"
     }
   ],
