@@ -43,7 +43,7 @@
     "@ecomplus/storefront-template": "^2.0.0-beta.278",
     "@fontsource-variable/inter": "^5.0.17",
     "@fontsource-variable/space-grotesk": "^5.0.17",
-    "@netlify/zip-it-and-ship-it": "^8.10.0",
+    "@netlify/zip-it-and-ship-it": "^12.1.1",
     "firebase-tools": "^13.29.2"
   },
   "devDependencies": {
