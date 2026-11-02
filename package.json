@@ -44,7 +44,7 @@
     "@fontsource-variable/inter": "^5.0.17",
     "@fontsource-variable/space-grotesk": "^5.0.17",
     "@netlify/zip-it-and-ship-it": "^8.10.0",
-    "firebase-tools": "^13.29.2"
+    "firebase-tools": "^14.0.1"
   },
   "devDependencies": {
     "browser-sync": "^3.0.2"
